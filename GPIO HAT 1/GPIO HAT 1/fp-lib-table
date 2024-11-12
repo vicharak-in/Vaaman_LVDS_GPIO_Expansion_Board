@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "ERJU02F2551X")(type "KiCad")(uri "D:/Parts/ERJU02F2551X")(options "")(descr ""))
+)
