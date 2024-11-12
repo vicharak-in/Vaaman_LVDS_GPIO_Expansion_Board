@@ -1,0 +1,171 @@
+(footprint "0402_Cap"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<b>RESISTOR</b>")
+	(property "Reference" "REF**"
+		(at 0 -0.9144 0)
+		(layer "F.SilkS")
+		(uuid "b3305ee4-e327-4042-a887-d463aaa6ab19")
+		(effects
+			(font
+				(size 0.315434 0.315434)
+				(thickness 0.078859)
+			)
+		)
+	)
+	(property "Value" "0402_Cap"
+		(at 0 0.9906 0)
+		(layer "F.Fab")
+		(uuid "946d7356-2cac-4a85-af89-94215a62d70e")
+		(effects
+			(font
+				(size 0.315026 0.315026)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32dcce3d-73a3-4464-a04a-b490e1b72ef5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85a917b1-efb8-4ef1-b04f-51cfe33230ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7a7c621-9ca5-465c-a741-3af2d43d748a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.0174 0.6254)
+		(end -1.0174 -0.5746)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "426a3b10-de7c-463b-b20f-60b48959b15c")
+	)
+	(fp_line
+		(start 0.9826 -0.5746)
+		(end -1.0174 -0.5746)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0774a8ec-569c-4666-9bce-e4858bf7cabc")
+	)
+	(fp_line
+		(start 0.9826 0.6254)
+		(end -1.0174 0.6254)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "774d1d36-63a0-49db-8862-9712ff527dc1")
+	)
+	(fp_line
+		(start 0.9826 0.6254)
+		(end 0.9826 -0.5746)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "580042d4-ba38-4833-a5c3-f29c372150b8")
+	)
+	(fp_line
+		(start -1.0174 0.6254)
+		(end -1.0174 -0.5746)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "bd770715-22b2-4eaa-ab11-eb7753174884")
+	)
+	(fp_line
+		(start 0.9826 -0.5746)
+		(end -1.0174 -0.5746)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "294ab0bd-126e-4c0c-9106-14a28f0986b5")
+	)
+	(fp_line
+		(start 0.9826 0.6254)
+		(end -1.0174 0.6254)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "77ba69d0-7f56-49b7-a63e-419e70db6bda")
+	)
+	(fp_line
+		(start 0.9826 0.6254)
+		(end 0.9826 -0.5746)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "57d3fc4f-97e8-4f02-9aba-cc3e046f7e4a")
+	)
+	(pad "1" smd rect
+		(at 0.4826 0.0254 180)
+		(size 0.5 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "eef83573-ff87-4afc-b644-6a72376b847b")
+	)
+	(pad "2" smd rect
+		(at -0.5174 0.0254 180)
+		(size 0.5 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "3eed1e61-4b8f-4776-836e-e7fa63add582")
+	)
+	(model "D:/Parts/0402 CAP.STEP"
+		(offset
+			(xyz 0 -0.33 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
