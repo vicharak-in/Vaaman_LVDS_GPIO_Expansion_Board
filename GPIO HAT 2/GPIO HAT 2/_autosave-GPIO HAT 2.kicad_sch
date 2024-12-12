@@ -6580,7 +6580,7 @@
 		(uuid "0b2ada98-5b4d-47e9-8c91-91e3a0b9631d")
 	)
 	(junction
-		(at 63.5 125.73)
+		(at 120.65 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c946448-7536-441b-b7a0-41a40d5e8b99")
@@ -6766,7 +6766,7 @@
 		(uuid "5c14784a-bfa7-4fc3-b886-d0b4c386b239")
 	)
 	(junction
-		(at 78.74 95.25)
+		(at 135.89 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d0fbae7-e999-4e0f-8591-ac93af0cae82")
@@ -7156,7 +7156,7 @@
 		(uuid "f1f3e602-ac78-429f-b0e9-99cc18f0d559")
 	)
 	(junction
-		(at 115.57 97.79)
+		(at 172.72 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3592e42-04f2-4f8a-adf4-2d25ec5b957c")
@@ -7174,11 +7174,11 @@
 		(uuid "fe5700f2-2200-46e5-8c42-827541fce744")
 	)
 	(no_connect
-		(at 78.74 110.49)
+		(at 135.89 115.57)
 		(uuid "301e369e-11f7-41fb-8c63-416d6161588c")
 	)
 	(no_connect
-		(at 78.74 113.03)
+		(at 135.89 118.11)
 		(uuid "b83f55ba-cf0c-487f-9afc-eb730a53b8c0")
 	)
 	(polyline
@@ -7235,7 +7235,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 123.19) (xy 55.88 125.73)
+			(xy 113.03 128.27) (xy 113.03 130.81)
 		)
 		(stroke
 			(width 0)
@@ -7658,7 +7658,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 123.19) (xy 63.5 125.73)
+			(xy 120.65 128.27) (xy 120.65 130.81)
 		)
 		(stroke
 			(width 0)
@@ -8415,7 +8415,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 107.95) (xy 104.14 113.03)
+			(xy 161.29 113.03) (xy 161.29 118.11)
 		)
 		(stroke
 			(width 0.254)
@@ -8577,7 +8577,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 95.25) (xy 78.74 97.79)
+			(xy 135.89 100.33) (xy 135.89 102.87)
 		)
 		(stroke
 			(width 0)
@@ -10505,7 +10505,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 125.73) (xy 63.5 125.73)
+			(xy 113.03 130.81) (xy 120.65 130.81)
 		)
 		(stroke
 			(width 0)
@@ -10899,7 +10899,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 107.95) (xy 115.57 113.03)
+			(xy 172.72 113.03) (xy 172.72 118.11)
 		)
 		(stroke
 			(width 0.254)
@@ -11037,6 +11037,16 @@
 			(type default)
 		)
 		(uuid "8d84714e-1cad-4dd1-be84-e28db55b396a")
+	)
+	(wire
+		(pts
+			(xy 172.72 97.79) (xy 172.72 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e944069-f854-4d56-bfab-3bf3c83cc256")
 	)
 	(wire
 		(pts
@@ -12776,7 +12786,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 95.25) (xy 87.63 95.25)
+			(xy 135.89 100.33) (xy 144.78 100.33)
 		)
 		(stroke
 			(width 0)
@@ -12816,7 +12826,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 125.73) (xy 63.5 129.54)
+			(xy 120.65 130.81) (xy 120.65 134.62)
 		)
 		(stroke
 			(width 0)
@@ -13178,7 +13188,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 102.87) (xy 104.14 97.79)
+			(xy 161.29 107.95) (xy 161.29 102.87)
 		)
 		(stroke
 			(width 0)
@@ -13380,7 +13390,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 97.79) (xy 115.57 97.79)
+			(xy 161.29 102.87) (xy 172.72 102.87)
 		)
 		(stroke
 			(width 0)
@@ -13622,7 +13632,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 125.73) (xy 63.5 125.73)
+			(xy 124.46 130.81) (xy 120.65 130.81)
 		)
 		(stroke
 			(width 0)
@@ -13793,7 +13803,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 123.19) (xy 67.31 125.73)
+			(xy 124.46 128.27) (xy 124.46 130.81)
 		)
 		(stroke
 			(width 0)
@@ -13906,7 +13916,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 97.79) (xy 115.57 102.87)
+			(xy 172.72 102.87) (xy 172.72 107.95)
 		)
 		(stroke
 			(width 0)
@@ -25626,7 +25636,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 115.57 113.03 0)
+		(at 172.72 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25635,7 +25645,7 @@
 		(fields_autoplaced yes)
 		(uuid "25931881-21e7-40c4-97e5-8c9200e2fa0b")
 		(property "Reference" "#PWR07"
-			(at 115.57 119.38 0)
+			(at 172.72 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25644,7 +25654,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 118.11 0)
+			(at 172.72 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25652,7 +25662,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 113.03 0)
+			(at 172.72 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25661,7 +25671,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 113.03 0)
+			(at 172.72 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25670,7 +25680,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 113.03 0)
+			(at 172.72 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32282,7 +32292,7 @@
 	)
 	(symbol
 		(lib_id "[02] - Power Supply-altium-import:root_3_Cap_0")
-		(at 115.57 105.41 0)
+		(at 172.72 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32290,7 +32300,7 @@
 		(dnp no)
 		(uuid "496017c5-e6a2-4f04-805b-89fc3433363c")
 		(property "Reference" "C9"
-			(at 118.11 102.87 0)
+			(at 175.26 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32299,7 +32309,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 113.284 102.362 0)
+			(at 170.434 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32309,7 +32319,7 @@
 			)
 		)
 		(property "Footprint" "VAAMAN2:0603_Cap"
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32318,7 +32328,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32327,7 +32337,7 @@
 			)
 		)
 		(property "Description" "CAP CER 100nF 10V X7R 0402"
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32336,7 +32346,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" ""
-			(at 113.284 102.362 0)
+			(at 170.434 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32346,7 +32356,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "100nF"
-			(at 118.11 105.41 0)
+			(at 175.26 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32355,7 +32365,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 118.11 107.95 0)
+			(at 175.26 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32364,7 +32374,7 @@
 			)
 		)
 		(property "VOLTAGE" "10V"
-			(at 118.11 110.49 0)
+			(at 175.26 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32373,7 +32383,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X7R"
-			(at 118.11 113.03 0)
+			(at 175.26 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32382,7 +32392,7 @@
 			)
 		)
 		(property "COLOR" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32391,7 +32401,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32400,7 +32410,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32409,7 +32419,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32418,7 +32428,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32427,7 +32437,7 @@
 			)
 		)
 		(property "COMPONENTLINK3DESCRIPTION" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32436,7 +32446,7 @@
 			)
 		)
 		(property "COMPONENTLINK3URL" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32445,7 +32455,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32454,7 +32464,7 @@
 			)
 		)
 		(property "CONTACT GENDER" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32463,7 +32473,7 @@
 			)
 		)
 		(property "CONTACT MATERIAL" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32472,7 +32482,7 @@
 			)
 		)
 		(property "CONTACT PLATING" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32481,7 +32491,7 @@
 			)
 		)
 		(property "CURRENT RATING" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32490,7 +32500,7 @@
 			)
 		)
 		(property "FLAMMABILITY RATING" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32499,7 +32509,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32508,7 +32518,7 @@
 			)
 		)
 		(property "HOUSING MATERIAL" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32517,7 +32527,7 @@
 			)
 		)
 		(property "INSULATION RESISTANCE" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32526,7 +32536,7 @@
 			)
 		)
 		(property "MANUFACTURER" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32535,7 +32545,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32544,7 +32554,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32553,7 +32563,7 @@
 			)
 		)
 		(property "MOUNT" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32562,7 +32572,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32571,7 +32581,7 @@
 			)
 		)
 		(property "PACKAGING" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32580,7 +32590,7 @@
 			)
 		)
 		(property "PRICING 1" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32589,7 +32599,7 @@
 			)
 		)
 		(property "REACH SVHC" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32598,7 +32608,7 @@
 			)
 		)
 		(property "SHIELDING" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32607,7 +32617,7 @@
 			)
 		)
 		(property "STOCK 1" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32616,7 +32626,7 @@
 			)
 		)
 		(property "SUPPLIER 1" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32625,7 +32635,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32634,7 +32644,7 @@
 			)
 		)
 		(property "TERMINATION" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32643,7 +32653,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32652,7 +32662,7 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
-			(at 115.57 105.41 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33119,7 +33129,7 @@
 	)
 	(symbol
 		(lib_id "[02] - Power Supply-altium-import:root_3_Cap_0")
-		(at 104.14 105.41 0)
+		(at 161.29 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33127,7 +33137,7 @@
 		(dnp no)
 		(uuid "4b5c0f2c-9d91-4396-883c-2cd7b4511a32")
 		(property "Reference" "C1"
-			(at 106.68 102.87 0)
+			(at 163.83 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33136,7 +33146,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 101.854 102.362 0)
+			(at 159.004 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33146,7 +33156,7 @@
 			)
 		)
 		(property "Footprint" "VAAMAN2:0603_Cap"
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33155,7 +33165,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33164,7 +33174,7 @@
 			)
 		)
 		(property "Description" "CAP CER 1uF 10V X5R 0603"
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33173,7 +33183,7 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" ""
-			(at 101.854 102.362 0)
+			(at 159.004 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33183,7 +33193,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "1uF"
-			(at 106.68 105.41 0)
+			(at 163.83 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33192,7 +33202,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
-			(at 106.68 107.95 0)
+			(at 163.83 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33201,7 +33211,7 @@
 			)
 		)
 		(property "VOLTAGE" "10V"
-			(at 106.68 110.49 0)
+			(at 163.83 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33210,7 +33220,7 @@
 			)
 		)
 		(property "DIELECTRIC" "X5R"
-			(at 106.68 113.03 0)
+			(at 163.83 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33219,7 +33229,7 @@
 			)
 		)
 		(property "COLOR" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33228,7 +33238,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33237,7 +33247,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33246,7 +33256,7 @@
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33255,7 +33265,7 @@
 			)
 		)
 		(property "COMPONENTLINK2URL" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33264,7 +33274,7 @@
 			)
 		)
 		(property "COMPONENTLINK3DESCRIPTION" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33273,7 +33283,7 @@
 			)
 		)
 		(property "COMPONENTLINK3URL" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33282,7 +33292,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33291,7 +33301,7 @@
 			)
 		)
 		(property "CONTACT GENDER" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33300,7 +33310,7 @@
 			)
 		)
 		(property "CONTACT MATERIAL" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33309,7 +33319,7 @@
 			)
 		)
 		(property "CONTACT PLATING" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33318,7 +33328,7 @@
 			)
 		)
 		(property "CURRENT RATING" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33327,7 +33337,7 @@
 			)
 		)
 		(property "FLAMMABILITY RATING" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33336,7 +33346,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33345,7 +33355,7 @@
 			)
 		)
 		(property "HOUSING MATERIAL" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33354,7 +33364,7 @@
 			)
 		)
 		(property "INSULATION RESISTANCE" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33363,7 +33373,7 @@
 			)
 		)
 		(property "MANUFACTURER" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33372,7 +33382,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33381,7 +33391,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33390,7 +33400,7 @@
 			)
 		)
 		(property "MOUNT" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33399,7 +33409,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33408,7 +33418,7 @@
 			)
 		)
 		(property "PACKAGING" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33417,7 +33427,7 @@
 			)
 		)
 		(property "PRICING 1" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33426,7 +33436,7 @@
 			)
 		)
 		(property "REACH SVHC" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33435,7 +33445,7 @@
 			)
 		)
 		(property "SHIELDING" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33444,7 +33454,7 @@
 			)
 		)
 		(property "STOCK 1" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33453,7 +33463,7 @@
 			)
 		)
 		(property "SUPPLIER 1" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33462,7 +33472,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33471,7 +33481,7 @@
 			)
 		)
 		(property "TERMINATION" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33480,7 +33490,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33489,7 +33499,7 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
-			(at 104.14 105.41 0)
+			(at 161.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35280,7 +35290,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 87.63 95.25 0)
+		(at 144.78 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35289,7 +35299,7 @@
 		(fields_autoplaced yes)
 		(uuid "5bd14202-8858-443c-9fdd-dc6bc29ef44b")
 		(property "Reference" "#PWR04"
-			(at 87.63 99.06 0)
+			(at 144.78 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35298,7 +35308,7 @@
 			)
 		)
 		(property "Value" "5V_1"
-			(at 87.63 90.17 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35306,7 +35316,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 95.25 0)
+			(at 144.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35315,7 +35325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 95.25 0)
+			(at 144.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35324,7 +35334,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 87.63 95.25 0)
+			(at 144.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38551,7 +38561,7 @@
 	)
 	(symbol
 		(lib_id "VAAMAN2:USB_C_Receptacle_PowerOnly_6P")
-		(at 63.5 105.41 0)
+		(at 120.65 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38559,7 +38569,7 @@
 		(dnp no)
 		(uuid "7bcc0a49-97b9-48af-a42d-c659c8928b5b")
 		(property "Reference" "J24"
-			(at 55.372 91.186 0)
+			(at 112.522 96.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38567,7 +38577,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_PowerOnly_6P"
-			(at 35.814 118.364 0)
+			(at 92.964 123.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38575,7 +38585,7 @@
 			)
 		)
 		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
-			(at 63.5 90.17 0)
+			(at 120.65 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38584,7 +38594,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 63.5 105.41 0)
+			(at 120.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38593,7 +38603,7 @@
 			)
 		)
 		(property "Description" "USB Power-Only 6P Type-C Receptacle connector"
-			(at 63.5 105.41 0)
+			(at 120.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40942,7 +40952,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 115.57 97.79 0)
+		(at 172.72 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40951,7 +40961,7 @@
 		(fields_autoplaced yes)
 		(uuid "9cb229fb-4b13-4bb8-989d-9838a32d1118")
 		(property "Reference" "#PWR08"
-			(at 115.57 101.6 0)
+			(at 172.72 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40960,7 +40970,7 @@
 			)
 		)
 		(property "Value" "5V_1"
-			(at 115.57 92.71 0)
+			(at 172.72 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40968,7 +40978,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 97.79 0)
+			(at 172.72 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40977,7 +40987,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 97.79 0)
+			(at 172.72 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40986,7 +40996,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 115.57 97.79 0)
+			(at 172.72 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47456,7 +47466,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 63.5 129.54 0)
+		(at 120.65 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47465,7 +47475,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8fdac47-6427-479a-8be6-7e86c1b4f470")
 		(property "Reference" "#PWR01"
-			(at 63.5 135.89 0)
+			(at 120.65 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47474,7 +47484,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 63.5 134.62 0)
+			(at 120.65 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47482,7 +47492,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 129.54 0)
+			(at 120.65 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47491,7 +47501,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 129.54 0)
+			(at 120.65 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47500,7 +47510,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 63.5 129.54 0)
+			(at 120.65 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47522,7 +47532,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 104.14 113.03 0)
+		(at 161.29 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47531,7 +47541,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb2733c6-c77d-4ece-8d6c-28327be4e6b0")
 		(property "Reference" "#PWR05"
-			(at 104.14 119.38 0)
+			(at 161.29 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47540,7 +47550,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.14 118.11 0)
+			(at 161.29 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47548,7 +47558,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 113.03 0)
+			(at 161.29 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47557,7 +47567,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 113.03 0)
+			(at 161.29 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47566,7 +47576,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 113.03 0)
+			(at 161.29 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
