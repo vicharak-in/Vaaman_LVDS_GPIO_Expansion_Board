@@ -18028,6 +18028,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 814.07 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "7515b221-d22e-48fb-ab70-99b859e146c7")
 		)
@@ -18415,6 +18424,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 386.08 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "722a1b4b-8b2d-4cdf-8836-a8e41c1329be")
 		)
@@ -18765,6 +18783,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 595.63 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "4f28e75d-c2ce-498a-91ec-9b3ce90d07db")
 		)
@@ -18915,6 +18942,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 648.97 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -19341,6 +19377,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 577.85 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 577.85 440.69 0)
 			(effects
 				(font
@@ -19922,6 +19967,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 715.01 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "54f47a82-cbaa-4c2f-bd57-5e3265bed2ce")
 		)
@@ -20272,6 +20326,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 704.85 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "de0eec1f-87c7-4785-b143-2c5f958b6e4d")
 		)
@@ -20343,6 +20406,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 129.54 304.8 0)
 			(effects
 				(font
@@ -20730,6 +20802,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 718.82 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "37980dbb-1d6e-48f9-93cb-af0d93a08bde")
 		)
@@ -21072,6 +21153,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 595.63 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 595.63 435.61 0)
 			(effects
 				(font
@@ -21441,6 +21531,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 298.45 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b4619f1b-a6e2-44ac-8c29-22df116962a7")
 		)
@@ -21802,6 +21901,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 713.74 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 713.74 109.22 0)
 			(effects
 				(font
@@ -22182,6 +22290,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 629.92 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ffe823d-6a44-4ffe-aa9d-477ea8a702e5")
 		)
@@ -22545,6 +22662,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 351.79 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5da8e58c-5cd8-4922-9c7d-2878ba9159c4")
 		)
@@ -22618,6 +22744,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 121.92 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -23038,6 +23173,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 344.17 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 344.17 341.63 0)
 			(effects
 				(font
@@ -23556,6 +23700,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 687.07 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "44259902-e901-422c-a564-cbd2c5a974ba")
 		)
@@ -23934,6 +24087,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 688.34 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63efaccb-d113-4822-adb4-fa38792b01e0")
 		)
@@ -24275,6 +24437,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 175.26 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 175.26 364.49 0)
 			(effects
 				(font
@@ -24659,6 +24830,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 736.6 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 736.6 341.63 0)
 			(effects
 				(font
@@ -25177,6 +25357,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 161.29 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79cb1cc9-60e3-4213-8a8f-5a8649a3b6b4")
 		)
@@ -25545,6 +25734,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 80.01 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 80.01 340.36 0)
 			(effects
 				(font
@@ -26034,6 +26232,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 298.45 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "94f7ab6e-d12e-4fff-a7cd-bc8af57fcddc")
 		)
@@ -26418,6 +26625,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 220.98 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "108e6c6c-0adc-4a74-a559-96fd5c312106")
 		)
@@ -26760,6 +26976,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 704.85 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 704.85 364.49 0)
 			(effects
 				(font
@@ -27122,6 +27347,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 814.07 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 814.07 364.49 0)
 			(effects
 				(font
@@ -27571,6 +27805,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 351.79 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dac8ad51-d81f-4452-b1d4-033b2f658f90")
 		)
@@ -27914,6 +28157,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 595.63 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 595.63 334.01 0)
 			(effects
 				(font
@@ -28415,6 +28667,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 704.85 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "671f1a21-9aa5-4032-bd11-ffd8a8b65200")
 		)
@@ -28805,6 +29066,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 796.29 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f1fc050-3cdd-4ffb-90e9-ae8e5a448f5d")
 		)
@@ -29154,6 +29424,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 420.37 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a9ec147-1c25-4fbe-aa72-73a76330ff05")
 		)
@@ -29225,6 +29504,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 549.91 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 549.91 302.26 0)
 			(effects
 				(font
@@ -29721,6 +30009,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 434.34 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 434.34 312.42 0)
 			(effects
 				(font
@@ -30252,6 +30549,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 177.8 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fe8ee6af-ac88-4148-88e3-57451142a29a")
 		)
@@ -30708,6 +31014,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 278.13 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "335f26a0-e254-43b6-b68c-90c83f0bd38f")
 		)
@@ -30781,6 +31096,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 758.19 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -31260,6 +31584,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 365.76 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d88d8970-99a3-4a8c-b751-cce7d5aba5e3")
 		)
@@ -31636,6 +31969,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 754.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dd437449-3431-44e1-8055-5247279778ca")
 		)
@@ -32004,6 +32346,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 501.65 441.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 501.65 441.96 0)
 			(effects
 				(font
@@ -32670,6 +33021,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 172.72 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4d1872f-5807-4439-a4d2-565addbed774")
 		)
@@ -33038,6 +33398,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 610.87 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 610.87 340.36 0)
 			(effects
 				(font
@@ -33507,6 +33876,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 161.29 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cbaa2011-76b1-45ab-a60a-be703165fcab")
 		)
@@ -33575,6 +33953,15 @@
 			)
 		)
 		(property "CASE/PACKAGE" " SOT-5X3"
+			(at 722.63 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 722.63 120.65 0)
 			(effects
 				(font
@@ -33958,6 +34345,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 365.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8983176-d4a4-4322-b359-2a22e72f93c3")
 		)
@@ -34097,6 +34493,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 119.38 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "11"
@@ -34510,6 +34915,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 365.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6604326b-7219-4aeb-83b0-343a0c21870c")
 		)
@@ -34883,6 +35297,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 223.52 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e257f12f-1097-4ad3-b254-27f4ebbf274b")
 		)
@@ -35021,6 +35444,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 240.03 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -35734,6 +36166,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 273.05 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "661c1210-939c-414a-bee0-af5cc57c2d24")
 		)
@@ -35807,6 +36248,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 648.97 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -36483,6 +36933,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 749.3 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b85d4ee5-d529-43e5-b575-9a848dc5eff9")
 		)
@@ -36870,6 +37329,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 261.62 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 261.62 144.78 0)
 			(effects
 				(font
@@ -37503,6 +37971,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 12.7 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "37"
 			(uuid "74b2301b-0584-44b4-9305-7dbb9339999a")
 		)
@@ -38027,6 +38504,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 595.63 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "e7f7606d-d14a-4d7e-9b41-4b76eae2cafc")
 		)
@@ -38112,6 +38598,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 539.75 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -38544,6 +39039,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 496.57 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4de9322e-9c3e-4710-bd88-2de3886b25be")
 		)
@@ -38603,6 +39107,15 @@
 			)
 		)
 		(property "Description" "USB Power-Only 6P Type-C Receptacle connector"
+			(at 120.65 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 120.65 110.49 0)
 			(effects
 				(font
@@ -38764,6 +39277,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 539.75 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -39462,6 +39984,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 156.21 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2714c9b1-d521-4ec6-be53-bd5ad957761f")
 		)
@@ -39902,6 +40433,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 396.24 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a3228b51-49ad-43b0-8596-9ad60cc95944")
 		)
@@ -40041,6 +40581,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 364.49 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -40538,6 +41087,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 407.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2119d1e2-d5c0-447a-9a93-052ab9a79f16")
 		)
@@ -40858,6 +41416,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 250.19 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 250.19 405.13 0)
 			(effects
 				(font
@@ -41342,6 +41909,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 295.91 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 295.91 334.01 0)
 			(effects
 				(font
@@ -41861,6 +42437,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 407.67 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 407.67 144.78 0)
 			(effects
 				(font
@@ -42442,6 +43027,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 321.31 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5d70d3ea-d443-4938-b437-243c976069ae")
 		)
@@ -42814,6 +43408,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 628.65 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb5a97ae-d29c-41bc-ba8c-f8efd066ef92")
 		)
@@ -43163,6 +43766,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 365.76 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 365.76 101.6 0)
 			(effects
 				(font
@@ -43744,6 +44356,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 201.93 441.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a42a5cf3-3736-448f-8eef-ec1ad41a6495")
 		)
@@ -44185,6 +44806,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 386.08 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8c93ef7-a56f-4077-9c2e-9a4c393412dd")
 		)
@@ -44558,6 +45188,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 101.6 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0101120-84d5-4468-af3c-411a9e597b5f")
 		)
@@ -44900,6 +45539,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 175.26 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 175.26 334.01 0)
 			(effects
 				(font
@@ -45381,6 +46029,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 285.75 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27c51fba-2eb9-4841-bc60-f3e01cb89edd")
 		)
@@ -45727,6 +46384,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 320.04 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 320.04 96.52 0)
 			(effects
 				(font
@@ -46119,6 +46785,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 375.92 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af7e3deb-0f14-4c9c-89bc-fb67e10410d4")
 		)
@@ -46487,6 +47162,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 78.74 441.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 78.74 441.96 0)
 			(effects
 				(font
@@ -47022,6 +47706,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 273.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5006f4c0-9fb2-4623-b867-6a4a9f041022")
 		)
@@ -47429,6 +48122,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 295.91 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 295.91 364.49 0)
 			(effects
 				(font
@@ -47938,6 +48640,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 713.74 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6dd889ca-eb46-4ff1-9351-c12a2b1d8d1a")
 		)
@@ -48353,6 +49064,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 420.37 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "62c3776b-2d9a-47b0-b635-7d140e57a41c")
 		)
@@ -48735,6 +49455,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 280.67 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 280.67 440.69 0)
 			(effects
 				(font
@@ -49485,6 +50214,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 177.8 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d98ed1a6-fd6b-45ed-bb8f-0e91c76c9489")
 		)
@@ -49873,6 +50611,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 199.39 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "05668628-52f3-4955-808b-848c73d14da7")
 		)
@@ -50237,6 +50984,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 100.33 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 100.33 341.63 0)
 			(effects
 				(font
@@ -50653,6 +51409,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 704.85 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 704.85 334.01 0)
 			(effects
 				(font
@@ -51111,6 +51876,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 520.7 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2424abf-452b-413c-930a-a80ecaed8cf6")
 		)
@@ -51486,6 +52260,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 375.92 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f59ff8f-9610-4be7-bedd-5b6fc1ad907c")
 		)
@@ -51613,6 +52396,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 521.97 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 521.97 118.11 0)
 			(effects
 				(font
@@ -51981,6 +52773,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 320.04 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf192d62-dc6e-4363-b509-aa4036712d0a")
 		)
@@ -52049,6 +52850,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 247.65 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 247.65 302.26 0)
 			(effects
 				(font
@@ -52455,6 +53265,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 261.62 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "38414afd-787b-49d3-8fe4-9d338f086bae")
 		)
@@ -52579,6 +53398,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 547.37 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 547.37 405.13 0)
 			(effects
 				(font
@@ -53050,6 +53878,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 285.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ed35a9ca-19cd-471c-a950-ffd1c74bc224")
 		)
@@ -53420,6 +54257,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 577.85 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 577.85 339.09 0)
 			(effects
 				(font
@@ -53934,6 +54780,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 396.24 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "305008a0-237e-47b4-91e7-9ce3766e989a")
 		)
@@ -54371,6 +55226,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 519.43 443.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8690809a-2702-46f8-9fe6-f8ddcff13a98")
 		)
@@ -54739,6 +55603,15 @@
 			)
 		)
 		(property "VOLTAGE RATING (DC)" ""
+			(at 610.87 441.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART NO." ""
 			(at 610.87 441.96 0)
 			(effects
 				(font
@@ -55388,6 +56261,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART NO." ""
+			(at 402.59 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a470dcbf-25f1-4b08-8777-a8cc7f39553a")
 		)
@@ -55461,6 +56343,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PART NO." ""
+			(at 242.57 466.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
