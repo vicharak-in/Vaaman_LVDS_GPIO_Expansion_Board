@@ -17703,7 +17703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01da919d-e87e-481f-8386-be8a8bd76ab2")
-		(property "Reference" "J15"
+		(property "Reference" "J10"
 			(at 822.96 318.1349 0)
 			(effects
 				(font
@@ -18058,7 +18058,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J15")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -18073,7 +18073,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03425cd8-8b2f-49c4-952e-2007a4e52624")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 388.62 87.6362 0)
 			(effects
 				(font
@@ -18442,7 +18442,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -18458,7 +18458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "038436f6-ee78-4e13-ad0b-0a14f2da42af")
-		(property "Reference" "J18"
+		(property "Reference" "J23"
 			(at 604.52 450.2149 0)
 			(effects
 				(font
@@ -18813,7 +18813,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J18")
+					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -18828,7 +18828,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03b65cc5-278d-4301-81a0-e3ea014cb663")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR011"
 			(at 365.76 113.03 0)
 			(effects
 				(font
@@ -18878,7 +18878,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR024")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -18893,7 +18893,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03cb5b24-ceaf-45b9-9456-914be0c7c965")
-		(property "Reference" "U10"
+		(property "Reference" "U13"
 			(at 661.67 411.48 0)
 			(effects
 				(font
@@ -19016,7 +19016,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U10")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -19031,7 +19031,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "068d446a-08dd-4ea6-8e2a-7191e360845e")
-		(property "Reference" "C40"
+		(property "Reference" "C33"
 			(at 576.5862 438.15 0)
 			(effects
 				(font
@@ -19403,7 +19403,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C40")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -19418,7 +19418,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0699a35b-4701-4fd3-8ddc-b994aab86391")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR054"
 			(at 638.81 336.55 0)
 			(effects
 				(font
@@ -19468,7 +19468,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR060")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -19484,7 +19484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07edefe2-761b-4af5-bcc6-c9c378582f59")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR039"
 			(at 572.77 299.72 0)
 			(effects
 				(font
@@ -19534,7 +19534,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR040")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -19550,7 +19550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "091ab6e5-3cbb-460c-a670-9202c8c80dc1")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR077"
 			(at 201.93 453.39 0)
 			(effects
 				(font
@@ -19600,7 +19600,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR083")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -19615,7 +19615,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b4fbbc7-b164-4d44-96cb-756e7ae2d001")
-		(property "Reference" "C43"
+		(property "Reference" "C11"
 			(at 706.882 120.1482 0)
 			(effects
 				(font
@@ -19985,7 +19985,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C43")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -20001,7 +20001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ccec1ca-053f-46a9-af85-4c1f50b53044")
-		(property "Reference" "J20"
+		(property "Reference" "J24"
 			(at 713.74 450.2149 0)
 			(effects
 				(font
@@ -20356,7 +20356,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J20")
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -20371,7 +20371,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f08777e-1e6a-4844-905b-2607ee5e03b9")
-		(property "Reference" "JM1"
+		(property "Reference" "JM3"
 			(at 134.366 295.656 0)
 			(effects
 				(font
@@ -20435,7 +20435,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "JM1")
+					(reference "JM3")
 					(unit 1)
 				)
 			)
@@ -20450,7 +20450,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f7aecee-0caf-48ff-a846-4bd8c3ef768a")
-		(property "Reference" "C37"
+		(property "Reference" "C30"
 			(at 721.36 339.0962 0)
 			(effects
 				(font
@@ -20820,7 +20820,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C37")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -20836,7 +20836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f81976b-804c-49e6-ab45-5c03f5fa4296")
-		(property "Reference" "J17"
+		(property "Reference" "J19"
 			(at 604.52 419.7349 0)
 			(effects
 				(font
@@ -21191,7 +21191,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J17")
+					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -21206,7 +21206,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "105f3051-5cf9-4453-9290-37ca598e9f39")
-		(property "Reference" "J10"
+		(property "Reference" "J22"
 			(at 306.578 452.374 0)
 			(effects
 				(font
@@ -21561,7 +21561,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J10")
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -21576,7 +21576,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12758b91-6d60-4873-b927-d39ad44e7a21")
-		(property "Reference" "R21"
+		(property "Reference" "R5"
 			(at 712.724 107.442 0)
 			(effects
 				(font
@@ -21927,7 +21927,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R21")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -21942,7 +21942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "144b0abd-4401-4a8a-85f1-3e6ab192a0c9")
-		(property "Reference" "R10"
+		(property "Reference" "R17"
 			(at 628.142 441.198 90)
 			(effects
 				(font
@@ -22308,7 +22308,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R10")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -22323,7 +22323,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18696ed9-3eef-4acf-8e1e-b069c92137f9")
-		(property "Reference" "L3"
+		(property "Reference" "L2"
 			(at 351.79 133.35 90)
 			(effects
 				(font
@@ -22680,7 +22680,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "L3")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -22695,7 +22695,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "187ac3a0-3f7b-4d50-8b90-f574b7b5341b")
-		(property "Reference" "U4"
+		(property "Reference" "U10"
 			(at 134.62 411.48 0)
 			(effects
 				(font
@@ -22818,7 +22818,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U4")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -22833,7 +22833,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1abc1c12-6cb7-4834-ac08-c5f3b0f90f33")
-		(property "Reference" "R3"
+		(property "Reference" "R10"
 			(at 342.392 339.598 90)
 			(effects
 				(font
@@ -23199,7 +23199,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R3")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -23214,7 +23214,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b7e216e-68cf-4c6a-a1fb-4abd3bb2b450")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR016"
 			(at 721.36 113.03 0)
 			(effects
 				(font
@@ -23265,7 +23265,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR037")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -23281,7 +23281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ba79964-a201-406e-a95f-d1480af7f181")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR068"
 			(at 162.56 411.48 0)
 			(effects
 				(font
@@ -23331,7 +23331,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR070")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -23346,7 +23346,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c2fb698-d68d-4136-93b4-0ce7137d8a9a")
-		(property "Reference" "C42"
+		(property "Reference" "C34"
 			(at 685.8062 438.15 0)
 			(effects
 				(font
@@ -23718,7 +23718,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C42")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -23733,7 +23733,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c47289d-b7d3-4e9e-88cc-5032a18e6699")
-		(property "Reference" "C36"
+		(property "Reference" "C23"
 			(at 687.0762 336.55 0)
 			(effects
 				(font
@@ -24105,7 +24105,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C36")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -24120,7 +24120,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d5b8d2a-a7d2-4f6b-8100-046efc5a4f73")
-		(property "Reference" "J2"
+		(property "Reference" "J11"
 			(at 183.388 347.98 0)
 			(effects
 				(font
@@ -24475,7 +24475,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J2")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -24490,7 +24490,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1df02ab9-f0a2-4a52-a39f-f6ce5280b921")
-		(property "Reference" "R8"
+		(property "Reference" "R13"
 			(at 734.822 339.598 90)
 			(effects
 				(font
@@ -24856,7 +24856,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R8")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -24872,7 +24872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e8505ca-3068-42a6-91b2-3b267893d9a0")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR071"
 			(at 689.61 411.48 0)
 			(effects
 				(font
@@ -24922,7 +24922,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR073")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -24938,7 +24938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21a1fd5a-628d-472b-a433-10f1ca4982b9")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR025"
 			(at 261.62 142.24 0)
 			(effects
 				(font
@@ -24988,7 +24988,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR028")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -25003,7 +25003,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2378f26a-e603-4214-8e86-8ecfa3e73538")
-		(property "Reference" "C30"
+		(property "Reference" "C31"
 			(at 160.0262 438.15 0)
 			(effects
 				(font
@@ -25375,7 +25375,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C30")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -25390,7 +25390,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24cf47b9-3532-4d7e-bb45-fb62e7d6d53b")
-		(property "Reference" "C23"
+		(property "Reference" "C25"
 			(at 82.55 339.0962 0)
 			(effects
 				(font
@@ -25760,7 +25760,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C23")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -25776,7 +25776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24d5275e-9157-4a28-a5ee-c1d3d067e778")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 273.05 402.59 0)
 			(effects
 				(font
@@ -25826,7 +25826,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -25842,7 +25842,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25931881-21e7-40c4-97e5-8c9200e2fa0b")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR020"
 			(at 172.72 124.46 0)
 			(effects
 				(font
@@ -25892,7 +25892,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR07")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -25907,7 +25907,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27069c6f-62fc-4be8-8261-a7ec3bc3cdc4")
-		(property "Reference" "J9"
+		(property "Reference" "J18"
 			(at 306.832 422.148 0)
 			(effects
 				(font
@@ -26262,7 +26262,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J9")
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -26277,7 +26277,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "289dbb95-495a-4560-b693-7af0da619993")
-		(property "Reference" "R2"
+		(property "Reference" "R9"
 			(at 219.202 339.598 90)
 			(effects
 				(font
@@ -26643,7 +26643,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R2")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -26659,7 +26659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a3b44b4-e721-4993-ab9e-ab3390c59c5a")
-		(property "Reference" "J14"
+		(property "Reference" "J15"
 			(at 713.74 348.6149 0)
 			(effects
 				(font
@@ -27014,7 +27014,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J14")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -27401,7 +27401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bb682b7-a74f-41ef-a986-d8b89c198cff")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR070"
 			(at 580.39 411.48 0)
 			(effects
 				(font
@@ -27451,7 +27451,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR072")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -27840,7 +27840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f766e32-66f6-4971-912e-6149c11712c7")
-		(property "Reference" "J11"
+		(property "Reference" "J8"
 			(at 604.52 318.1349 0)
 			(effects
 				(font
@@ -28195,7 +28195,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J11")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -28210,7 +28210,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "301f085b-5b79-446c-8b9e-4e5adf6beb65")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR033"
 			(at 396.24 168.91 0)
 			(effects
 				(font
@@ -28260,7 +28260,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR034")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -28276,7 +28276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31ba0aa8-52d4-4337-a0a8-c563abcd5400")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR061"
 			(at 718.82 351.79 0)
 			(effects
 				(font
@@ -28326,7 +28326,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR086")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -28342,7 +28342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "328e4490-ab50-463a-97c0-f735221be91c")
-		(property "Reference" "J19"
+		(property "Reference" "J20"
 			(at 713.74 419.7349 0)
 			(effects
 				(font
@@ -28697,7 +28697,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J19")
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -28712,7 +28712,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "374944f8-743e-484b-8d22-70aa3f8022f6")
-		(property "Reference" "C38"
+		(property "Reference" "C24"
 			(at 795.0262 336.55 0)
 			(effects
 				(font
@@ -29084,7 +29084,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C38")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -29099,7 +29099,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38bd7a84-da02-4465-b8fe-c4281ca3e50a")
-		(property "Reference" "J5"
+		(property "Reference" "J7"
 			(at 428.498 316.992 0)
 			(effects
 				(font
@@ -29454,7 +29454,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J5")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -29469,7 +29469,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38e45312-e890-4349-94dc-9388f5ed6f6f")
-		(property "Reference" "JM4"
+		(property "Reference" "JM2"
 			(at 554.736 293.116 0)
 			(effects
 				(font
@@ -29533,7 +29533,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "JM4")
+					(reference "JM2")
 					(unit 1)
 				)
 			)
@@ -29549,7 +29549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38ebb6fc-d3d4-42c2-82f4-f730eaf4ec5e")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR041"
 			(at 227.33 303.53 0)
 			(effects
 				(font
@@ -29599,7 +29599,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR048")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -29615,7 +29615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a7f1e36-b500-439f-aed7-32a0cc384986")
-		(property "Reference" "J22"
+		(property "Reference" "J3"
 			(at 445.77 307.34 0)
 			(effects
 				(font
@@ -30209,7 +30209,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J22")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -30224,7 +30224,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3aa54029-e9ca-4a34-88c2-e94d50a35376")
-		(property "Reference" "J8"
+		(property "Reference" "J21"
 			(at 185.928 452.12 0)
 			(effects
 				(font
@@ -30579,7 +30579,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J8")
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -30595,7 +30595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3afa53d5-eed3-4a77-84db-1f871009d401")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR022"
 			(at 741.68 128.27 0)
 			(effects
 				(font
@@ -30645,7 +30645,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR038")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -30660,7 +30660,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b21be92-877f-40f6-a2a4-47cd948f2542")
-		(property "Reference" "C26"
+		(property "Reference" "C20"
 			(at 276.8662 336.55 0)
 			(effects
 				(font
@@ -31032,7 +31032,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C26")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -31047,7 +31047,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ba75eb6-1ffc-4d28-a0ca-c95089df261e")
-		(property "Reference" "U8"
+		(property "Reference" "U9"
 			(at 770.89 309.88 0)
 			(effects
 				(font
@@ -31170,7 +31170,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U8")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -31186,7 +31186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cbda0d4-2e8b-42b7-bf37-1219cc0335e3")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR05"
 			(at 285.75 102.87 0)
 			(effects
 				(font
@@ -31236,7 +31236,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR018")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -31251,7 +31251,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "404ad540-e2e9-4c81-bddd-d9ff8c7be93c")
-		(property "Reference" "R19"
+		(property "Reference" "R7"
 			(at 368.3 154.9399 0)
 			(effects
 				(font
@@ -31602,7 +31602,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R19")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -31617,7 +31617,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40892ba6-88cb-47fa-8c60-07fe38a7407e")
-		(property "Reference" "C44"
+		(property "Reference" "C10"
 			(at 746.252 115.0682 0)
 			(effects
 				(font
@@ -31987,7 +31987,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C44")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -32002,7 +32002,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40f2191e-37c9-45a5-9dd8-a6698feeb680")
-		(property "Reference" "C39"
+		(property "Reference" "C37"
 			(at 504.19 440.6962 0)
 			(effects
 				(font
@@ -32372,7 +32372,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C39")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -32388,7 +32388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42e59720-6978-4b1f-b61b-9ea75f49b72d")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR047"
 			(at 581.66 309.88 0)
 			(effects
 				(font
@@ -32438,7 +32438,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR054")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -32454,7 +32454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43f3fd5d-3bfb-43cc-a8a4-1c290425b180")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR048"
 			(at 690.88 309.88 0)
 			(effects
 				(font
@@ -32504,7 +32504,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR055")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -32519,7 +32519,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44f5362e-95e4-45f0-9139-e90e9a37d34e")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR014"
 			(at 407.67 113.03 0)
 			(effects
 				(font
@@ -32569,7 +32569,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR032")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -32585,7 +32585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "484787ae-f16d-4da4-a1b3-9eea5f784fa5")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR06"
 			(at 314.96 102.87 0)
 			(effects
 				(font
@@ -32635,7 +32635,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR022")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -33054,7 +33054,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b1e3959-c252-47c5-ae05-a935cdd04756")
-		(property "Reference" "C35"
+		(property "Reference" "C29"
 			(at 613.41 339.0962 0)
 			(effects
 				(font
@@ -33424,7 +33424,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C35")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -33440,7 +33440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b43c970-664d-4b52-ba84-9f1a57807002")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR064"
 			(at 537.21 402.59 0)
 			(effects
 				(font
@@ -33490,7 +33490,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR067")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -33505,7 +33505,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b5c0f2c-9d91-4396-883c-2cd7b4511a32")
-		(property "Reference" "C1"
+		(property "Reference" "C8"
 			(at 163.83 107.95 0)
 			(effects
 				(font
@@ -33894,7 +33894,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C1")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -33909,7 +33909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c209722-cbf3-4341-ab52-b1a2716cfc36")
-		(property "Reference" "U14"
+		(property "Reference" "U2"
 			(at 729.615 91.44 0)
 			(effects
 				(font
@@ -33997,7 +33997,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U14")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -34012,7 +34012,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d6f66ff-9cfd-4db6-94ee-8189c73b0889")
-		(property "Reference" "R16"
+		(property "Reference" "R1"
 			(at 368.3 87.6299 0)
 			(effects
 				(font
@@ -34363,7 +34363,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R16")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -34379,7 +34379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d872879-7708-4f9b-ada7-f1991b4b58f5")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR056"
 			(at 80.01 351.79 0)
 			(effects
 				(font
@@ -34429,7 +34429,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR044")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -34444,7 +34444,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f82bbe4-085f-466e-a2d0-528043848bb9")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 132.08 309.88 0)
 			(effects
 				(font
@@ -34567,7 +34567,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -34582,7 +34582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "50fa4f5b-ac2f-4950-86fd-8e625f253400")
-		(property "Reference" "R18"
+		(property "Reference" "R6"
 			(at 367.792 143.51 0)
 			(effects
 				(font
@@ -34933,7 +34933,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R18")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -34948,7 +34948,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "515defe6-ca16-4bbc-a4e2-d28d6095c0dd")
-		(property "Reference" "R5"
+		(property "Reference" "R15"
 			(at 221.742 441.198 90)
 			(effects
 				(font
@@ -35315,7 +35315,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R5")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -35330,7 +35330,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5189813e-1d98-4420-8266-5b1c66222711")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR012"
 			(at 386.08 113.03 0)
 			(effects
 				(font
@@ -35380,7 +35380,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR025")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -35395,7 +35395,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "584aa034-20e4-4f9b-ba1d-4844bb61e8f1")
-		(property "Reference" "U2"
+		(property "Reference" "U5"
 			(at 252.73 309.88 0)
 			(effects
 				(font
@@ -35518,7 +35518,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U2")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -35533,7 +35533,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "58a125ce-b4ba-4705-9c5e-5ba4acb526e4")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR051"
 			(at 229.87 336.55 0)
 			(effects
 				(font
@@ -35583,7 +35583,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR057")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -35598,7 +35598,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a0a9f14-6d33-4d54-90e8-06c51b99d66d")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR013"
 			(at 396.24 113.03 0)
 			(effects
 				(font
@@ -35648,7 +35648,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR031")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -35664,7 +35664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b0c3cef-f948-4b8e-bc07-55fdb4bf89d7")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR067"
 			(at 527.05 406.4 0)
 			(effects
 				(font
@@ -35714,7 +35714,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR069")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -35730,7 +35730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bd14202-8858-443c-9fdd-dc6bc29ef44b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR09"
 			(at 144.78 104.14 0)
 			(effects
 				(font
@@ -35778,9 +35778,9 @@
 			(uuid "bf4b9d81-00a6-469a-89f4-c90dd86227c1")
 		)
 		(instances
-			(project ""
+			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR04")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -35795,7 +35795,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c17bb67-31c7-4bf4-a34d-20d583c4278e")
-		(property "Reference" "C17"
+		(property "Reference" "C13"
 			(at 275.59 142.24 0)
 			(effects
 				(font
@@ -36184,7 +36184,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C17")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -36199,7 +36199,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e2106cd-e63d-444b-bf84-db7ea66f40d8")
-		(property "Reference" "U7"
+		(property "Reference" "U8"
 			(at 661.67 309.88 0)
 			(effects
 				(font
@@ -36322,7 +36322,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U7")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -36338,7 +36338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e27cf45-7bb9-41b9-ab84-536fa455dadb")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR038"
 			(at 539.75 299.72 0)
 			(effects
 				(font
@@ -36388,7 +36388,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR046")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -36404,7 +36404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ff5ab75-3f21-44c8-b406-e6a12cc95f19")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR046"
 			(at 405.13 309.88 0)
 			(effects
 				(font
@@ -36454,7 +36454,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR053")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -36470,7 +36470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66025b9b-f462-4661-b28a-84cdd36072d0")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR080"
 			(at 461.01 471.17 0)
 			(effects
 				(font
@@ -36520,7 +36520,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR078")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -36535,7 +36535,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6698112d-200e-4971-9f35-0fc747e8e973")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR075"
 			(at 638.81 438.15 0)
 			(effects
 				(font
@@ -36585,7 +36585,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR077")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -36600,7 +36600,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67ac0dca-2dff-4661-92b1-663afc34cf51")
-		(property "Reference" "R22"
+		(property "Reference" "R4"
 			(at 751.078 105.918 0)
 			(effects
 				(font
@@ -36951,7 +36951,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R22")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -36966,7 +36966,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68b1c0c8-7a61-4d54-ba81-8e427d257313")
-		(property "Reference" "C16"
+		(property "Reference" "C12"
 			(at 264.16 142.24 0)
 			(effects
 				(font
@@ -37355,7 +37355,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C16")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -37371,7 +37371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69d485d9-37cf-4f35-9ad7-1a8dfdfb8b3a")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR018"
 			(at 543.56 121.92 0)
 			(effects
 				(font
@@ -37421,7 +37421,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR043")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -37437,7 +37437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b34d0eb-b4bc-49bc-a5b5-106ffba41321")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR044"
 			(at 160.02 309.88 0)
 			(effects
 				(font
@@ -37487,7 +37487,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR051")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -37502,7 +37502,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6be992b5-11e4-47f0-b0c4-a81aa28f091f")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR074"
 			(at 529.59 438.15 0)
 			(effects
 				(font
@@ -37552,7 +37552,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR076")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -37569,7 +37569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f792f63-f6a4-4be9-b5ec-3b679735f1db")
-		(property "Reference" "J21"
+		(property "Reference" "J4"
 			(at 24.13 311.15 0)
 			(effects
 				(font
@@ -38163,7 +38163,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J21")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -38179,7 +38179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "705a89ce-97a5-4595-b76a-7c43d47a118e")
-		(property "Reference" "J12"
+		(property "Reference" "J14"
 			(at 604.52 348.6149 0)
 			(effects
 				(font
@@ -38534,7 +38534,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J12")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -38549,7 +38549,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "78d51f08-4d44-4fa3-8941-55c3e50cf31b")
-		(property "Reference" "U6"
+		(property "Reference" "U7"
 			(at 552.45 309.88 0)
 			(effects
 				(font
@@ -38672,7 +38672,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U6")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -38687,7 +38687,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b9ba03d-af07-4de3-9a66-ee6805344e3a")
-		(property "Reference" "C33"
+		(property "Reference" "C28"
 			(at 499.11 339.0962 0)
 			(effects
 				(font
@@ -39057,7 +39057,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C33")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -39072,7 +39072,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7bcc0a49-97b9-48af-a42d-c659c8928b5b")
-		(property "Reference" "J24"
+		(property "Reference" "J1"
 			(at 112.522 96.266 0)
 			(effects
 				(font
@@ -39146,9 +39146,9 @@
 			(uuid "e6ab802a-70bd-43fe-ae00-5984351fe680")
 		)
 		(instances
-			(project ""
+			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J24")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -39163,7 +39163,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82378d1e-b3de-4c3f-bb6e-1899d161c053")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR035"
 			(at 152.4 299.72 0)
 			(effects
 				(font
@@ -39213,7 +39213,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR041")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -39228,7 +39228,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82588913-47fb-496d-ac81-d5ff04d9b8b3")
-		(property "Reference" "U9"
+		(property "Reference" "U12"
 			(at 552.45 411.48 0)
 			(effects
 				(font
@@ -39351,7 +39351,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U9")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -39367,7 +39367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8410c87e-2540-4252-84f8-add28450acdc")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR029"
 			(at 285.75 158.75 0)
 			(effects
 				(font
@@ -39417,7 +39417,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR019")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -39433,7 +39433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "847b8967-99cb-4cc5-99be-9a9eaa185f55")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR059"
 			(at 496.57 351.79 0)
 			(effects
 				(font
@@ -39483,7 +39483,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR084")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -39499,7 +39499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86b2b4a8-239c-461a-bc6a-2d6a4d0609e6")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR02"
 			(at 396.24 86.36 0)
 			(effects
 				(font
@@ -39549,7 +39549,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR03")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -39565,7 +39565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87eb5588-5e72-4ce0-b9ef-d60afb595998")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR057"
 			(at 199.39 351.79 0)
 			(effects
 				(font
@@ -39615,7 +39615,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR064")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -39630,7 +39630,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8959ce09-f2e4-477e-b550-c6dff8d2f74e")
-		(property "Reference" "C24"
+		(property "Reference" "C19"
 			(at 154.9462 336.55 0)
 			(effects
 				(font
@@ -40002,7 +40002,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C24")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -40017,7 +40017,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89f6f2c7-53cc-4316-bd1d-41a5795c45b5")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR052"
 			(at 355.6 336.55 0)
 			(effects
 				(font
@@ -40067,7 +40067,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR058")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -40082,7 +40082,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c988527-f220-4731-8146-855bfb5117d1")
-		(property "Reference" "C21"
+		(property "Reference" "C17"
 			(at 398.78 143.5162 0)
 			(effects
 				(font
@@ -40451,7 +40451,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C21")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -40467,7 +40467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ef2d446-82a9-4983-a047-7c0c50f5b5cd")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR028"
 			(at 273.05 158.75 0)
 			(effects
 				(font
@@ -40517,7 +40517,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR020")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -40532,7 +40532,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f1e237d-9961-41b1-bcde-ff0df6beecff")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 377.19 309.88 0)
 			(effects
 				(font
@@ -40655,7 +40655,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -40671,7 +40671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fa42280-ce8a-4f4d-9631-b2ad3810c8da")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR043"
 			(at 109.22 306.07 0)
 			(effects
 				(font
@@ -40721,7 +40721,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR050")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -40736,7 +40736,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "900e62b1-ba4a-470a-a3ca-bbd2f103ba46")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 410.21 87.6362 0)
 			(effects
 				(font
@@ -41105,7 +41105,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -41121,7 +41121,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "955e97b2-b5ee-4641-8612-78e4428dbf31")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR040"
 			(at 119.38 302.26 0)
 			(effects
 				(font
@@ -41171,7 +41171,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR047")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -41187,7 +41187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97e0da78-a7c3-4dfe-b819-1f6395f1b392")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR060"
 			(at 610.87 351.79 0)
 			(effects
 				(font
@@ -41237,7 +41237,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR085")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -41316,7 +41316,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "992a5fc5-df92-4cc2-a25d-da17b89bf072")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR031"
 			(at 365.76 167.64 0)
 			(effects
 				(font
@@ -41366,7 +41366,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR036")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -41381,7 +41381,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a8fa941-27d8-49ef-85fd-bc9ceb2361b5")
-		(property "Reference" "JM3"
+		(property "Reference" "JM4"
 			(at 255.016 395.986 0)
 			(effects
 				(font
@@ -41445,7 +41445,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "JM3")
+					(reference "JM4")
 					(unit 1)
 				)
 			)
@@ -41461,7 +41461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b7c9613-fd46-4183-a7fa-3d3765e47536")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR066"
 			(at 229.87 406.4 0)
 			(effects
 				(font
@@ -41511,7 +41511,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR068")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -41527,7 +41527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cb229fb-4b13-4bb8-989d-9838a32d1118")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR07"
 			(at 172.72 101.6 0)
 			(effects
 				(font
@@ -41577,7 +41577,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR08")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -41592,7 +41592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9cc33fca-3ab4-43e9-ae03-b2472476b392")
-		(property "Reference" "J3"
+		(property "Reference" "J6"
 			(at 303.784 317.246 0)
 			(effects
 				(font
@@ -41947,7 +41947,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J3")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -41963,7 +41963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ce88082-04fb-4ad2-868b-36b018c19f3d")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR078"
 			(at 501.65 453.39 0)
 			(effects
 				(font
@@ -42013,7 +42013,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR087")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -42029,7 +42029,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f4fa766-b1d2-41c3-8d40-53914622eadc")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR021"
 			(at 754.38 127 0)
 			(effects
 				(font
@@ -42079,7 +42079,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR096")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -42094,7 +42094,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f575557-6ea7-443e-a773-970a4a5eb7cf")
-		(property "Reference" "C22"
+		(property "Reference" "C18"
 			(at 410.21 143.5162 0)
 			(effects
 				(font
@@ -42463,7 +42463,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C22")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -42479,7 +42479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f70515f-935d-45e7-a6e7-df7caa0c7aae")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR030"
 			(at 314.96 158.75 0)
 			(effects
 				(font
@@ -42529,7 +42529,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR023")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -42544,7 +42544,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9fd806a5-5bd8-4062-8dc8-5a768b4926f8")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR010"
 			(at 756.92 109.22 0)
 			(effects
 				(font
@@ -42594,7 +42594,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR06")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -42610,7 +42610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1e8b530-e942-4701-9607-700c0cd73409")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR037"
 			(at 270.51 299.72 0)
 			(effects
 				(font
@@ -42660,7 +42660,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR039")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -43060,7 +43060,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3041d02-697d-4380-bf91-f4356b2bd3f5")
-		(property "Reference" "R7"
+		(property "Reference" "R12"
 			(at 626.872 339.598 90)
 			(effects
 				(font
@@ -43426,7 +43426,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R7")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -43441,7 +43441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3996d6d-c3b5-425b-887b-c10eb387bcea")
-		(property "Reference" "R17"
+		(property "Reference" "R2"
 			(at 368.3 100.3299 0)
 			(effects
 				(font
@@ -43792,7 +43792,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R17")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -43808,7 +43808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6a14114-23e8-42b9-b4df-282f5bf98c4f")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR015"
 			(at 510.54 115.57 0)
 			(effects
 				(font
@@ -43858,7 +43858,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR042")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -43874,7 +43874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aad20d92-f2b2-4b38-9d3e-eae5f6b93e0d")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR01"
 			(at 261.62 86.36 0)
 			(effects
 				(font
@@ -43924,7 +43924,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR02")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -43939,7 +43939,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "acf82838-e587-42af-8d03-f8ca55d45168")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR032"
 			(at 386.08 168.91 0)
 			(effects
 				(font
@@ -43989,7 +43989,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR035")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -44004,7 +44004,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad65e377-b48f-45bd-8132-f991341b7efa")
-		(property "Reference" "C31"
+		(property "Reference" "C36"
 			(at 204.47 440.6962 0)
 			(effects
 				(font
@@ -44374,7 +44374,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C31")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -44390,7 +44390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aeaf24e4-9807-42ed-9071-366bd8f34834")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR08"
 			(at 684.53 101.6 0)
 			(effects
 				(font
@@ -44440,7 +44440,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR011")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -44455,7 +44455,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af8e1e0f-9db8-46e4-88c4-3a6be08213f8")
-		(property "Reference" "C20"
+		(property "Reference" "C16"
 			(at 388.62 143.5162 0)
 			(effects
 				(font
@@ -44824,7 +44824,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C20")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -44839,7 +44839,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b18074df-08e4-4e45-9ec4-e0b329a098da")
-		(property "Reference" "R4"
+		(property "Reference" "R14"
 			(at 99.822 441.198 90)
 			(effects
 				(font
@@ -45206,7 +45206,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R4")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -45222,7 +45222,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7ab6f6e-5cb4-44ef-8c6f-d31517f29f29")
-		(property "Reference" "J1"
+		(property "Reference" "J5"
 			(at 183.642 318.262 0)
 			(effects
 				(font
@@ -45577,7 +45577,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J1")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -45593,7 +45593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8040c7b-21c3-4d0d-90f0-b050b4e93db8")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR045"
 			(at 280.67 309.88 0)
 			(effects
 				(font
@@ -45643,7 +45643,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR052")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -45658,7 +45658,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9116658-d135-4820-a9c8-e9f8e80f9b51")
-		(property "Reference" "C18"
+		(property "Reference" "C14"
 			(at 288.29 142.24 0)
 			(effects
 				(font
@@ -46047,7 +46047,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C18")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -46062,7 +46062,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb8166e9-8185-49b2-89f5-30c15cf0c52a")
-		(property "Reference" "U12"
+		(property "Reference" "U1"
 			(at 335.788 80.264 0)
 			(effects
 				(font
@@ -46419,7 +46419,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U12")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -46434,7 +46434,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcb62a69-8125-498b-a3b6-2f626f10ead3")
-		(property "Reference" "C19"
+		(property "Reference" "C15"
 			(at 378.46 143.5162 0)
 			(effects
 				(font
@@ -46803,7 +46803,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C19")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -46818,7 +46818,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd1a7ce5-32ac-4833-b69e-93abfccdc1d7")
-		(property "Reference" "C29"
+		(property "Reference" "C35"
 			(at 81.28 440.6962 0)
 			(effects
 				(font
@@ -47188,7 +47188,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C29")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -47204,7 +47204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c051b4e9-1220-4e4a-a157-798fe2651b44")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR081"
 			(at 38.1 474.98 0)
 			(effects
 				(font
@@ -47254,7 +47254,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR079")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -47270,7 +47270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c18b728a-4094-4190-addc-7595546fd7a2")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR03"
 			(at 261.62 102.87 0)
 			(effects
 				(font
@@ -47320,7 +47320,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR014")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -47335,7 +47335,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c589efe3-3632-4c24-800f-d584ac47f975")
-		(property "Reference" "C3"
+		(property "Reference" "C2"
 			(at 275.59 86.36 0)
 			(effects
 				(font
@@ -47724,7 +47724,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C3")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -47740,7 +47740,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c810ba4d-926f-4435-b1a8-81fb87b01490")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR058"
 			(at 321.31 351.79 0)
 			(effects
 				(font
@@ -47790,7 +47790,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR065")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -47805,7 +47805,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c89bcea6-fb4a-4771-bddb-2f540467c781")
-		(property "Reference" "J4"
+		(property "Reference" "J12"
 			(at 304.038 348.996 0)
 			(effects
 				(font
@@ -48160,7 +48160,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J4")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -48176,7 +48176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8fdac47-6427-479a-8be6-7e86c1b4f470")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR024"
 			(at 120.65 140.97 0)
 			(effects
 				(font
@@ -48224,9 +48224,9 @@
 			(uuid "eeca141d-fb87-4e24-bc6d-43419242dd66")
 		)
 		(instances
-			(project ""
+			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR01")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -48242,7 +48242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb2733c6-c77d-4ece-8d6c-28327be4e6b0")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR019"
 			(at 161.29 124.46 0)
 			(effects
 				(font
@@ -48292,7 +48292,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR05")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -48307,7 +48307,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc512668-7efb-4c5a-a418-f350f7ad4d2b")
-		(property "Reference" "R20"
+		(property "Reference" "R3"
 			(at 712.978 99.822 0)
 			(effects
 				(font
@@ -48658,7 +48658,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R20")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -48674,7 +48674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cede4f6d-98c9-46a6-962f-c8c5d3ea8bee")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR023"
 			(at 715.01 132.08 0)
 			(effects
 				(font
@@ -48724,7 +48724,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR093")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -48739,7 +48739,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cfa1ab21-5790-49ef-a441-8c1a31109109")
-		(property "Reference" "J6"
+		(property "Reference" "J13"
 			(at 428.752 350.266 0)
 			(effects
 				(font
@@ -49094,7 +49094,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J6")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -49497,7 +49497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d218a703-1348-4b6c-93f3-191d4851a050")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR042"
 			(at 529.59 303.53 0)
 			(effects
 				(font
@@ -49547,7 +49547,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR049")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -49563,7 +49563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d22be85d-c83a-45fd-bcc2-adbb6340a575")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR069"
 			(at 283.21 411.48 0)
 			(effects
 				(font
@@ -49613,7 +49613,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR071")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -49628,7 +49628,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d251df24-d0cd-4a5c-9db0-f3256b36c269")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR017"
 			(at 758.19 118.11 0)
 			(effects
 				(font
@@ -49678,7 +49678,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR016")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -49693,7 +49693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2ccfa96-f42c-493c-9237-c434bd5b1643")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR072"
 			(at 111.76 438.15 0)
 			(effects
 				(font
@@ -49743,7 +49743,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR074")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -49758,7 +49758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d336c012-d881-4f3d-ae02-b77d0ef593e5")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR073"
 			(at 232.41 438.15 0)
 			(effects
 				(font
@@ -49808,7 +49808,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR075")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -49824,7 +49824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d385f8d6-df00-4ecd-8216-d3f8b5ac2973")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR036"
 			(at 237.49 299.72 0)
 			(effects
 				(font
@@ -49874,7 +49874,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR045")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -49889,7 +49889,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4bdf286-60e5-4931-a3b8-fba48b23d3ce")
-		(property "Reference" "J7"
+		(property "Reference" "J17"
 			(at 185.928 422.148 0)
 			(effects
 				(font
@@ -50244,7 +50244,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J7")
+					(reference "J17")
 					(unit 1)
 				)
 			)
@@ -50259,7 +50259,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5348568-b0a4-4e1e-8dd9-2a3f1a6f9cda")
-		(property "Reference" "C25"
+		(property "Reference" "C26"
 			(at 201.93 339.0962 0)
 			(effects
 				(font
@@ -50629,7 +50629,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C25")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -50644,7 +50644,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d890d85f-5289-457d-ad12-a7bbf9c2b381")
-		(property "Reference" "R1"
+		(property "Reference" "R8"
 			(at 98.552 339.598 90)
 			(effects
 				(font
@@ -51010,7 +51010,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R1")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -51026,7 +51026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da320560-0468-4cd4-b651-2683d7d23d04")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR076"
 			(at 78.74 453.39 0)
 			(effects
 				(font
@@ -51076,7 +51076,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR082")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -51092,7 +51092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db0d675f-04c7-44bd-bbec-e5a5cc3a8716")
-		(property "Reference" "J13"
+		(property "Reference" "J9"
 			(at 713.74 318.1349 0)
 			(effects
 				(font
@@ -51447,7 +51447,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J13")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -51463,7 +51463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db9661b4-4ab9-406c-9c7b-b7f2bafeef23")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR04"
 			(at 273.05 102.87 0)
 			(effects
 				(font
@@ -51513,7 +51513,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR015")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -51528,7 +51528,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddc28f05-d873-42ae-aa1b-6fe885d3b9aa")
-		(property "Reference" "R6"
+		(property "Reference" "R11"
 			(at 518.922 339.598 90)
 			(effects
 				(font
@@ -51894,7 +51894,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R6")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -51909,7 +51909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de487ca6-cbb0-4d19-a334-70421e3c701c")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 378.46 87.63 0)
 			(effects
 				(font
@@ -52278,7 +52278,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -52294,7 +52294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de6f4f2c-afdb-4662-922f-cf8105451339")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR062"
 			(at 240.03 402.59 0)
 			(effects
 				(font
@@ -52344,7 +52344,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR066")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -52360,7 +52360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df4cd0d3-8acb-4503-ae10-c6ce597361cb")
-		(property "Reference" "J23"
+		(property "Reference" "J2"
 			(at 527.05 106.68 0)
 			(effects
 				(font
@@ -52428,7 +52428,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "J23")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -52443,7 +52443,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e08f09f5-1268-47ef-ba00-9d5876abdf2d")
-		(property "Reference" "U13"
+		(property "Reference" "U3"
 			(at 335.534 136.144 0)
 			(effects
 				(font
@@ -52800,7 +52800,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U13")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -52815,7 +52815,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e13c9d7a-9d81-4ef3-a0ad-750916a682fc")
-		(property "Reference" "JM2"
+		(property "Reference" "JM1"
 			(at 252.476 293.116 0)
 			(effects
 				(font
@@ -52879,7 +52879,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "JM2")
+					(reference "JM1")
 					(unit 1)
 				)
 			)
@@ -52894,7 +52894,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e3807770-5eba-4f83-b53f-f8a3c0aee91d")
-		(property "Reference" "C2"
+		(property "Reference" "C1"
 			(at 264.16 86.36 0)
 			(effects
 				(font
@@ -53283,7 +53283,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C2")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -53298,7 +53298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6b98cab-a1fa-4923-831a-7eb5872480e2")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR053"
 			(at 529.59 336.55 0)
 			(effects
 				(font
@@ -53348,7 +53348,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR059")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -53442,7 +53442,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec124b63-1af8-430f-a96a-5ab1aaedbf1d")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR050"
 			(at 93.98 336.55 0)
 			(effects
 				(font
@@ -53492,7 +53492,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR080")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -53507,7 +53507,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed7b3ff7-fd6a-4caf-b5c1-e7d26eba0779")
-		(property "Reference" "C4"
+		(property "Reference" "C3"
 			(at 288.29 86.36 0)
 			(effects
 				(font
@@ -53896,7 +53896,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C4")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -53911,7 +53911,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ede729bf-74ae-42a4-bd82-8567bb67989c")
-		(property "Reference" "C34"
+		(property "Reference" "C22"
 			(at 576.5862 336.55 0)
 			(effects
 				(font
@@ -54283,7 +54283,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C34")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -54299,7 +54299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef2c887a-a937-4215-8a55-4d17cead129e")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR049"
 			(at 800.1 309.88 0)
 			(effects
 				(font
@@ -54349,7 +54349,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR056")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -54364,7 +54364,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ef715420-503c-4555-b20c-fe352043fd9a")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR055"
 			(at 748.03 336.55 0)
 			(effects
 				(font
@@ -54414,7 +54414,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR061")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -54429,7 +54429,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0fdfc50-a601-434c-9578-85352cc50c66")
-		(property "Reference" "C7"
+		(property "Reference" "C6"
 			(at 398.78 87.6362 0)
 			(effects
 				(font
@@ -54798,7 +54798,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C7")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -54813,7 +54813,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f326b533-9756-4cba-bb21-e37ea7fcb58c")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR026"
 			(at 396.24 142.24 0)
 			(effects
 				(font
@@ -54863,7 +54863,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR029")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -54878,7 +54878,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f40de95a-b3ff-4898-a9d0-0fc8dec2c628")
-		(property "Reference" "R9"
+		(property "Reference" "R16"
 			(at 517.652 441.198 90)
 			(effects
 				(font
@@ -55244,7 +55244,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "R9")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -55259,7 +55259,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f44361e4-6a50-4a29-ab58-0b02d7342a64")
-		(property "Reference" "C41"
+		(property "Reference" "C38"
 			(at 613.41 440.6962 0)
 			(effects
 				(font
@@ -55629,7 +55629,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C41")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -55645,7 +55645,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4be9a76-9b56-49bd-8a61-18676a97571e")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR079"
 			(at 610.87 453.39 0)
 			(effects
 				(font
@@ -55695,7 +55695,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR088")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -55711,7 +55711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7b13733-df7a-4b70-a2af-2db056d9ad69")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR065"
 			(at 570.23 402.59 0)
 			(effects
 				(font
@@ -55761,7 +55761,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR063")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -55777,7 +55777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8173a34-4d6f-425d-82f6-ab0b8e6ebc5e")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR027"
 			(at 261.62 158.75 0)
 			(effects
 				(font
@@ -55827,7 +55827,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR021")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -55842,7 +55842,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f9da66ae-880a-4e35-a61c-b4c5921fb86f")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 407.67 168.91 0)
 			(effects
 				(font
@@ -55892,7 +55892,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -55907,7 +55907,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe66afc7-5b0b-4161-80cf-9155f0777099")
-		(property "Reference" "C28"
+		(property "Reference" "C21"
 			(at 401.3262 336.55 0)
 			(effects
 				(font
@@ -56279,7 +56279,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "C28")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -56294,7 +56294,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe69152b-c0fc-41f7-b448-a808acb9c5b6")
-		(property "Reference" "U5"
+		(property "Reference" "U11"
 			(at 255.27 411.48 0)
 			(effects
 				(font
@@ -56417,7 +56417,7 @@
 		(instances
 			(project "GPIO HAT 2"
 				(path "/5be03653-e5a8-48db-bc3e-f80da82b80f4"
-					(reference "U5")
+					(reference "U11")
 					(unit 1)
 				)
 			)
