@@ -18,7 +18,9 @@ Power input: Vaaman Header
 
 ![image](https://github.com/user-attachments/assets/dbdf2c71-f1b3-4322-a309-10515b39eb29)
 
-NOT tested Yet 
+NOT tested Yet(GPIO HAT 1).
+
+
 
 GPIO HAT 2:
 
