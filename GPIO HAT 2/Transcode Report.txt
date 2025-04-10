@@ -547,3 +547,141 @@ D14   --> D177
 D10   --> D178
 D11   --> D179
 -----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-F_Paste.gbr' ----   Thu Apr 10 14:58:35 2025
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-F_Mask.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D107
+D11   --> D108
+D12   --> D109
+D13   --> D110
+D14   --> D111
+D15   --> D112
+D16   --> D113
+D17   --> D114
+D18   --> D115
+D19   --> D116
+D20   --> D117
+D21   --> D118
+D22   --> D119
+D23   --> D120
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-F_Cu.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D121
+D11   --> D122
+D12   --> D123
+D13   --> D124
+D14   --> D125
+D15   --> D126
+D16   --> D127
+D17   --> D128
+D18   --> D129
+D19   --> D130
+D20   --> D131
+D21   --> D132
+D22   --> D133
+D23   --> D134
+D24   --> D135
+D25   --> D136
+D26   --> D137
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-In1_Cu.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D138
+D11   --> D139
+D12   --> D140
+D13   --> D141
+D14   --> D142
+D15   --> D143
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-In2_Cu.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D144
+D11   --> D145
+D12   --> D146
+D13   --> D147
+D14   --> D148
+D15   --> D149
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-B_Cu.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D150
+D11   --> D151
+D12   --> D152
+D13   --> D153
+D14   --> D154
+D15   --> D155
+D16   --> D156
+D17   --> D157
+D18   --> D158
+D19   --> D159
+D20   --> D160
+D21   --> D161
+D22   --> D162
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-B_Mask.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D163
+D11   --> D164
+D12   --> D165
+D13   --> D166
+D14   --> D167
+D15   --> D168
+D16   --> D169
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-B_Paste.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D170
+D11   --> D171
+D12   --> D172
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-B_Silkscreen.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D173
+D11   --> D174
+D12   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-PTH-drl.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D176
+D11   --> D177
+D12   --> D178
+D13   --> D179
+D14   --> D180
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Darshan\AppData\Local\Temp\PentaLogix\ImportZip\4ffa6aab-6f4f-40df-918a-d39c76853c14\GPIO HAT 2-Edge_Cuts.gbr' ----   Thu Apr 10 14:58:36 2025
+
+D10   --> D181
+D11   --> D182
+-----------------------------------------------------------------

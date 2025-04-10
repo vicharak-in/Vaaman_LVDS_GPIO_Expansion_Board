@@ -64751,7 +64751,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "64"
+	(gr_text "88\n"
 		(at 203.716465 83.693 0)
 		(layer "F.SilkS")
 		(uuid "5d4500b4-f2d9-4850-b109-cb2d75c99b22")
@@ -65874,10 +65874,43 @@
 			(xy 155.8101 133.1431) (xy 240.8101 133.1431)
 		)
 		(height 8.525)
-		(gr_text "3346.4567 mils"
+		(gr_text "85.0000 mm"
 			(at 198.3101 140.5181 0)
 			(layer "Edge.Cuts")
 			(uuid "3d4a5d47-94ef-43a9-8897-9bd0e79f7750")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.05)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Edge.Cuts")
+		(uuid "f621d5f4-6480-408f-8e2d-7542828c0929")
+		(pts
+			(xy 159.3101 136.6431) (xy 159.3101 62.0431)
+		)
+		(height -9.625)
+		(gr_text "74.6000 mm"
+			(at 148.5351 99.3431 90)
+			(layer "Edge.Cuts")
+			(uuid "f621d5f4-6480-408f-8e2d-7542828c0929")
 			(effects
 				(font
 					(size 1 1)
