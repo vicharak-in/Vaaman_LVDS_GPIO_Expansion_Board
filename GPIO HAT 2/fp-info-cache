@@ -1,4 +1,4 @@
-23173098594411549
+23159611812113961
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55663,13 +55663,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ERJU02F2551X
-RES_ERJU02F2551X
-
-
-0
-2
-2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -56706,13 +56699,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-HEADER 01x05
-01x05 Header 2.54mm
-
-
-0
-5
-5
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -63496,20 +63482,6 @@ Yellow 5381 Series LED
 0
 2
 2
-LVDSNEW
-DF40C-60DP-0.4V_51_
-DF40C-60DP-0.4V(51)
-Connector
-0
-64
-64
-Library
-Transformer_Breve_TEZ-22x24
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-7
-7
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -66170,13 +66142,6 @@ net tie
 0
 4
 4
-ORING
-SOP65P640X120-8N
-
-
-0
-8
-8
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -88871,20 +88836,6 @@ Logo WEEE
 0
 0
 0
-TXB0108DQSR
-TXB0108DQSR
-DQS (R-PUSON-N20)
-Integrated Circuit
-0
-20
-20
-TXB0108RGYR
-IC_TXB0108RGYR
-
-
-0
-25
-25
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -94926,10 +94877,3 @@ Varistor VF
 0
 2
 2
-footprints
-CONN_DF40C-60DS-0.4V51_HIR
-
-DF40C-60DS-0.4V51 
-0
-60
-60

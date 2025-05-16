@@ -18199,7 +18199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "  1uF, 25V, X5R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 386.08 88.9 0)
 			(effects
 				(font
@@ -18208,7 +18208,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 388.62 92.456 0)
 			(effects
 				(font
@@ -18992,7 +18992,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 695.706 133.858 0)
 			(effects
 				(font
@@ -19019,7 +19019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1uF 10V X5R 0402"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 703.58 133.35 0)
 			(effects
 				(font
@@ -19028,7 +19028,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 695.452 135.89 0)
 			(effects
 				(font
@@ -19369,7 +19369,7 @@
 		(dnp no)
 		(uuid "068d446a-08dd-4ea6-8e2a-7191e360845e")
 		(property "Reference" "C33"
-			(at 576.5862 438.15 0)
+			(at 573.786 440.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19377,8 +19377,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 578.866 438.15 0)
+		(property "Value" "100nF"
+			(at 578.612 436.626 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19404,7 +19404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 577.85 440.69 0)
 			(effects
 				(font
@@ -19413,7 +19413,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 580.898 438.15 0)
 			(effects
 				(font
@@ -19988,7 +19988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "5.1KOhm, ±1%, 62.5mW, 0402, Resistor"
 			(at 148.59 125.73 0)
 			(effects
 				(font
@@ -20777,7 +20777,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 721.614 341.376 0)
 			(effects
 				(font
@@ -20804,7 +20804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 718.82 340.36 0)
 			(effects
 				(font
@@ -20813,7 +20813,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 721.36 343.408 0)
 			(effects
 				(font
@@ -21993,7 +21993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 629.92 445.262 90)
 			(effects
 				(font
@@ -22374,7 +22374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor with iron core"
+		(property "Description" "3.3uH, 40mOhm, 2.4A, 3.3A, 30%, Power Inductors"
 			(at 351.79 139.7 0)
 			(effects
 				(font
@@ -22746,7 +22746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 344.17 343.662 90)
 			(effects
 				(font
@@ -23160,7 +23160,7 @@
 		(dnp no)
 		(uuid "1c2fb698-d68d-4136-93b4-0ce7137d8a9a")
 		(property "Reference" "C34"
-			(at 685.8062 438.15 0)
+			(at 683.006 440.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23168,8 +23168,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 688.086 438.15 0)
+		(property "Value" "100nF"
+			(at 687.324 436.626 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23195,7 +23195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 687.07 440.69 0)
 			(effects
 				(font
@@ -23204,7 +23204,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 690.118 438.15 0)
 			(effects
 				(font
@@ -23547,7 +23547,7 @@
 		(dnp no)
 		(uuid "1c47289d-b7d3-4e9e-88cc-5032a18e6699")
 		(property "Reference" "C23"
-			(at 687.0762 336.55 0)
+			(at 684.276 339.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23555,8 +23555,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 689.356 336.55 0)
+		(property "Value" "100nF"
+			(at 688.594 335.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23582,7 +23582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 688.34 339.09 0)
 			(effects
 				(font
@@ -23591,7 +23591,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 691.388 336.55 0)
 			(effects
 				(font
@@ -24337,7 +24337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 736.6 343.662 90)
 			(effects
 				(font
@@ -25059,7 +25059,7 @@
 		(dnp no)
 		(uuid "2378f26a-e603-4214-8e86-8ecfa3e73538")
 		(property "Reference" "C31"
-			(at 160.0262 438.15 0)
+			(at 157.226 440.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25067,8 +25067,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 162.306 438.15 0)
+		(property "Value" "100nF"
+			(at 162.052 436.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25094,7 +25094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 161.29 440.69 0)
 			(effects
 				(font
@@ -25103,7 +25103,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 164.338 438.15 0)
 			(effects
 				(font
@@ -25454,7 +25454,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 82.804 341.376 0)
 			(effects
 				(font
@@ -25481,7 +25481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 80.01 340.36 0)
 			(effects
 				(font
@@ -25490,7 +25490,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 82.55 343.408 0)
 			(effects
 				(font
@@ -26366,7 +26366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 220.98 343.662 90)
 			(effects
 				(font
@@ -27686,7 +27686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor with iron core"
+		(property "Description" "3.3uH, 40mOhm, 2.4A, 3.3A, 30%, Power Inductors"
 			(at 351.79 83.82 0)
 			(effects
 				(font
@@ -29111,7 +29111,7 @@
 		(dnp no)
 		(uuid "374944f8-743e-484b-8d22-70aa3f8022f6")
 		(property "Reference" "C24"
-			(at 795.0262 336.55 0)
+			(at 793.496 339.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29119,8 +29119,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 797.306 336.55 0)
+		(property "Value" "100nF"
+			(at 797.56 335.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29146,7 +29146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 796.29 339.09 0)
 			(effects
 				(font
@@ -29155,7 +29155,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 799.338 336.55 0)
 			(effects
 				(font
@@ -30238,7 +30238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "DF40C-60DS-0.4V(51)"
+		(property "Manufacturer_Part_Number" "DF40C-60DP-0.4V(51)"
 			(at 453.39 1107.34 0)
 			(effects
 				(font
@@ -31132,7 +31132,7 @@
 		(dnp no)
 		(uuid "3b21be92-877f-40f6-a2a4-47cd948f2542")
 		(property "Reference" "C20"
-			(at 276.8662 336.55 0)
+			(at 275.082 339.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31140,8 +31140,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 279.146 336.55 0)
+		(property "Value" "100nF"
+			(at 281.94 335.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31167,7 +31167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 278.13 339.09 0)
 			(effects
 				(font
@@ -31176,7 +31176,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 281.178 336.55 0)
 			(effects
 				(font
@@ -31620,7 +31620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "49.9KOhm, ±1%, 62.5mW, 0402, Resistor"
 			(at 365.76 156.21 0)
 			(effects
 				(font
@@ -31959,7 +31959,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 504.444 442.976 0)
 			(effects
 				(font
@@ -31986,7 +31986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 501.65 441.96 0)
 			(effects
 				(font
@@ -31995,7 +31995,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 504.19 445.008 0)
 			(effects
 				(font
@@ -32635,7 +32635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 100nF 10V X7R 0402"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 172.72 110.49 0)
 			(effects
 				(font
@@ -32672,7 +32672,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 175.26 115.57 0)
 			(effects
 				(font
@@ -33011,7 +33011,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 613.664 341.376 0)
 			(effects
 				(font
@@ -33038,7 +33038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 610.87 340.36 0)
 			(effects
 				(font
@@ -33047,7 +33047,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 613.41 343.408 0)
 			(effects
 				(font
@@ -33463,13 +33463,12 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 159.004 107.442 0)
+			(at 164.084 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "VAAMAN2:0603_Cap"
@@ -33490,7 +33489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1uF 10V X5R 0603"
+		(property "Description" "  1uF, 25V, X5R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 161.29 110.49 0)
 			(effects
 				(font
@@ -33516,6 +33515,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
@@ -33527,7 +33527,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 163.83 115.57 0)
 			(effects
 				(font
@@ -33893,7 +33893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "100KOhm, ±1%, 1/16W, 0402, Resistor"
 			(at 365.76 88.9 0)
 			(effects
 				(font
@@ -34325,7 +34325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "100KOhm, ±1%, 1/16W, 0402, Resistor"
 			(at 365.76 144.78 0)
 			(effects
 				(font
@@ -34689,7 +34689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 223.52 445.262 90)
 			(effects
 				(font
@@ -35540,7 +35540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 100nF 10V X7R 0402"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 273.05 144.78 0)
 			(effects
 				(font
@@ -35577,7 +35577,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 275.59 149.86 0)
 			(effects
 				(font
@@ -36048,7 +36048,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 735.076 128.778 0)
 			(effects
 				(font
@@ -36075,7 +36075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1uF 10V X5R 0402"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 742.95 128.27 0)
 			(effects
 				(font
@@ -36084,7 +36084,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 734.822 130.81 0)
 			(effects
 				(font
@@ -36770,13 +36770,12 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 259.334 141.732 0)
+			(at 264.414 144.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "VAAMAN2:0603_Cap"
@@ -36797,7 +36796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1uF 10V X5R 0603"
+		(property "Description" "  1uF, 25V, X5R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 261.62 144.78 0)
 			(effects
 				(font
@@ -36823,6 +36822,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
@@ -36834,7 +36834,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 264.16 149.86 0)
 			(effects
 				(font
@@ -37588,7 +37588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "DF40C-60DS-0.4V(51)"
+		(property "Manufacturer_Part_Number" "DF40C-60DP-0.4V(51)"
 			(at 31.75 1111.15 0)
 			(effects
 				(font
@@ -38557,7 +38557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 499.364 341.376 0)
 			(effects
 				(font
@@ -38584,7 +38584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 496.57 340.36 0)
 			(effects
 				(font
@@ -38593,7 +38593,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 499.11 343.408 0)
 			(effects
 				(font
@@ -39729,7 +39729,7 @@
 		(dnp no)
 		(uuid "8959ce09-f2e4-477e-b550-c6dff8d2f74e")
 		(property "Reference" "C19"
-			(at 154.9462 336.55 0)
+			(at 152.908 338.836 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39737,8 +39737,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 157.226 336.55 0)
+		(property "Value" "100nF"
+			(at 160.528 335.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39764,7 +39764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 156.21 339.09 0)
 			(effects
 				(font
@@ -39773,7 +39773,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 159.258 336.55 0)
 			(effects
 				(font
@@ -40216,7 +40216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 396.24 144.78 0)
 			(effects
 				(font
@@ -40225,7 +40225,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 398.78 148.336 0)
 			(effects
 				(font
@@ -40732,7 +40732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 407.67 88.9 0)
 			(effects
 				(font
@@ -40741,7 +40741,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 410.21 92.202 0)
 			(effects
 				(font
@@ -42163,7 +42163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 407.67 144.78 0)
 			(effects
 				(font
@@ -42172,7 +42172,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 410.21 148.082 0)
 			(effects
 				(font
@@ -42652,7 +42652,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 324.104 341.376 0)
 			(effects
 				(font
@@ -42679,7 +42679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 321.31 340.36 0)
 			(effects
 				(font
@@ -42688,7 +42688,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 323.85 343.408 0)
 			(effects
 				(font
@@ -43062,7 +43062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 628.65 343.662 90)
 			(effects
 				(font
@@ -43418,7 +43418,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22.2K"
+		(property "Value" "22.1K"
 			(at 368.3 102.8699 0)
 			(effects
 				(font
@@ -43445,7 +43445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "22.1KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 365.76 101.6 0)
 			(effects
 				(font
@@ -44120,7 +44120,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 204.724 442.976 0)
 			(effects
 				(font
@@ -44147,7 +44147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 201.93 441.96 0)
 			(effects
 				(font
@@ -44156,7 +44156,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 204.47 445.008 0)
 			(effects
 				(font
@@ -44532,7 +44532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "  1uF, 25V, X5R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 386.08 144.78 0)
 			(effects
 				(font
@@ -44541,7 +44541,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 388.62 147.828 0)
 			(effects
 				(font
@@ -44914,7 +44914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 101.6 445.262 90)
 			(effects
 				(font
@@ -45736,7 +45736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 100nF 10V X7R 0402"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 285.75 144.78 0)
 			(effects
 				(font
@@ -45773,7 +45773,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 288.29 149.86 0)
 			(effects
 				(font
@@ -46886,7 +46886,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 81.534 442.976 0)
 			(effects
 				(font
@@ -46913,7 +46913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 78.74 441.96 0)
 			(effects
 				(font
@@ -46922,7 +46922,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 81.28 445.008 0)
 			(effects
 				(font
@@ -47709,7 +47709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 100nF 10V X7R 0402"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 273.05 88.9 0)
 			(effects
 				(font
@@ -47746,7 +47746,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 275.59 93.98 0)
 			(effects
 				(font
@@ -49023,7 +49023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 281.686 438.15 0)
 			(effects
 				(font
@@ -49050,7 +49050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 280.67 440.69 0)
 			(effects
 				(font
@@ -49059,7 +49059,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 283.718 438.15 0)
 			(effects
 				(font
@@ -50474,7 +50474,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 202.184 341.376 0)
 			(effects
 				(font
@@ -50501,7 +50501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 199.39 340.36 0)
 			(effects
 				(font
@@ -50510,7 +50510,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 201.93 343.408 0)
 			(effects
 				(font
@@ -50886,7 +50886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "5.1KOhm, ±1%, 62.5mW, 0402, Resistor"
 			(at 138.43 125.73 0)
 			(effects
 				(font
@@ -51250,7 +51250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 100.33 343.662 90)
 			(effects
 				(font
@@ -52134,7 +52134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 520.7 343.662 90)
 			(effects
 				(font
@@ -53496,13 +53496,12 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 259.334 85.852 0)
+			(at 264.668 88.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "VAAMAN2:0603_Cap"
@@ -53523,7 +53522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1uF 10V X5R 0603"
+		(property "Description" "  1uF, 25V, X5R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 261.62 88.9 0)
 			(effects
 				(font
@@ -53549,6 +53548,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
@@ -53560,7 +53560,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 264.16 93.98 0)
 			(effects
 				(font
@@ -54201,7 +54201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 100nF 10V X7R 0402"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 285.75 88.9 0)
 			(effects
 				(font
@@ -54238,7 +54238,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 288.29 93.98 0)
 			(effects
 				(font
@@ -54569,7 +54569,7 @@
 		(dnp no)
 		(uuid "ede729bf-74ae-42a4-bd82-8567bb67989c")
 		(property "Reference" "C22"
-			(at 576.5862 336.55 0)
+			(at 573.786 338.582 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54577,8 +54577,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 578.866 336.55 0)
+		(property "Value" "100nf"
+			(at 579.882 334.772 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54604,7 +54604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 577.85 339.09 0)
 			(effects
 				(font
@@ -54613,7 +54613,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 580.898 336.55 0)
 			(effects
 				(font
@@ -55122,7 +55122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "  100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitor"
 			(at 396.24 88.9 0)
 			(effects
 				(font
@@ -55131,7 +55131,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 398.78 92.202 0)
 			(effects
 				(font
@@ -55635,7 +55635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 519.43 445.262 90)
 			(effects
 				(font
@@ -55991,7 +55991,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 613.664 442.976 0)
 			(effects
 				(font
@@ -56018,7 +56018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 610.87 441.96 0)
 			(effects
 				(font
@@ -56027,7 +56027,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 613.41 445.008 0)
 			(effects
 				(font
@@ -56632,7 +56632,7 @@
 		(dnp no)
 		(uuid "f9c3819a-e4a9-4132-bb13-438fc852560b")
 		(property "Reference" "R4"
-			(at 739.648 117.348 0)
+			(at 738.886 115.824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56641,7 +56641,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 737.616 117.094 0)
+			(at 739.648 120.142 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56667,7 +56667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor -  20Kohm, 1%, 0402"
+		(property "Description" "10KOhm, ±1%, 62.5mW, 0402, Chip Resistor"
 			(at 737.87 118.11 0)
 			(effects
 				(font
@@ -56677,7 +56677,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
-			(at 735.584 117.094 0)
+			(at 740.156 122.174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57063,7 +57063,7 @@
 		(dnp no)
 		(uuid "fe66afc7-5b0b-4161-80cf-9155f0777099")
 		(property "Reference" "C21"
-			(at 401.3262 336.55 0)
+			(at 399.796 338.836 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57071,8 +57071,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 403.606 336.55 0)
+		(property "Value" "100nF"
+			(at 404.876 335.026 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57098,7 +57098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor"
 			(at 402.59 339.09 0)
 			(effects
 				(font
@@ -57107,7 +57107,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "10V"
+		(property "VOLTAGE" "25V"
 			(at 405.638 336.55 0)
 			(effects
 				(font

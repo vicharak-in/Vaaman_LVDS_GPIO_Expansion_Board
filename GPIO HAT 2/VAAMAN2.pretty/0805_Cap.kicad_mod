@@ -128,9 +128,9 @@
 		(solder_mask_margin 0.102)
 		(uuid "0eb04823-df6d-4c20-8f5c-e3cd40669861")
 	)
-	(model "D:/Parts/0805.STEP"
+	(model "${KIPRJMOD}/Component 3D File/C_0805_2012Metric.step"
 		(offset
-			(xyz 0 -0.73 0)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)

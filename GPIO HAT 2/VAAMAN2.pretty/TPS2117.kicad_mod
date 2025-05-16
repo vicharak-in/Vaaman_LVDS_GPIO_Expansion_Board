@@ -288,4 +288,15 @@
 		(layers "F.Cu" "F.Paste")
 		(uuid "9b2a14d0-cbd1-46e3-b30d-9cc4744bc504")
 	)
+	(model "${KIPRJMOD}/Component 3D File/TPS2117DRLR.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

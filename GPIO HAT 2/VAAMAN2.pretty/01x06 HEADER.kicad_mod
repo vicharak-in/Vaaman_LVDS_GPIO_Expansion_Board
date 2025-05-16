@@ -217,7 +217,7 @@
 		(remove_unused_layers no)
 		(uuid "f078e1e1-8aba-4395-afb3-32f285215c2d")
 	)
-	(model "D:/PinHeader_1x06_P2.54mm_Vertical.step"
+	(model "${KIPRJMOD}/Component 3D File/PinHeader_1x06_P2.54mm_Vertical.step"
 		(offset
 			(xyz 0.1 1.8 0)
 		)

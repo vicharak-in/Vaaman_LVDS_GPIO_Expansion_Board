@@ -298,7 +298,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "1db4b703-a45c-44a4-b34c-f8fbc59b3bb3")
 	)
-	(model "D:/Parts/TXB0108DQSR--3DModel-STEP-56544.STEP"
+	(model "${KIPRJMOD}/Component 3D File/TXB0108DQSR.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

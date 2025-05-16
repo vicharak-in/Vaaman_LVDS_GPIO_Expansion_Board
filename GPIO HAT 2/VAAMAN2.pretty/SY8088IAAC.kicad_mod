@@ -194,7 +194,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "cfa99c74-3072-486e-a390-89108381bc7c")
 	)
-	(model "D:/Parts/SOT23-5.STEP"
+	(model "${KIPRJMOD}/Component 3D File/SOT-23-5.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -202,7 +202,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 0)
+			(xyz 0 0 0)
 		)
 	)
 )

@@ -157,9 +157,9 @@
 		(thermal_bridge_angle 45)
 		(uuid "3eed1e61-4b8f-4776-836e-e7fa63add582")
 	)
-	(model "D:/Parts/0402 CAP.STEP"
+	(model "${KIPRJMOD}/Component 3D File/C_0402_1005Metric.step"
 		(offset
-			(xyz 0 -0.33 0)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)

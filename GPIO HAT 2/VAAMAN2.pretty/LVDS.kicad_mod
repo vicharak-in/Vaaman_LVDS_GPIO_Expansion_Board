@@ -574,4 +574,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "6bef7e4f-917f-435c-83c3-88544b0518d5")
 	)
+	(model "${KIPRJMOD}/Component 3D File/DF40C-60DP.stp"
+		(offset
+			(xyz -6.8 2.5 0.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
 )
