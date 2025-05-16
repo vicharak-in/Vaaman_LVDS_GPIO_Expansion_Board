@@ -36,9 +36,25 @@ Vaaman and HAT Connection: Flex cable
 
 Power input: Vaaman Header or Type-C 
 
-![image](https://github.com/user-attachments/assets/9c849b39-e5b9-42f3-86bd-52be6fc641c2)
+![image](https://github.com/user-attachments/assets/f2330f03-ae7f-4313-9f08-ec92d4767051)
 
-![image](https://github.com/user-attachments/assets/16369205-f2b8-41c0-bf64-33aa1ef90c58)
+
+![image](https://github.com/user-attachments/assets/e1675b24-638f-4fbe-be7b-9d35dfd07c59)
+
+Power up instructions:
+
+Vaaman LVDS GPIO HAT can Power by two Options: 
+
+Option 1: Using Female to Female Jumper From Vaaman Header to GPIO Hat Header
+
+Vaaman Header 5V and GND:
+
+![Screenshot 2025-05-16 152833](https://github.com/user-attachments/assets/96d452a9-031e-4b1c-bb43-102c799e8389)
+
+GPIO HAT Header:
+
+![image](https://github.com/user-attachments/assets/28552018-25c8-46c3-9be1-5dafbf886f7b)
+
 
 Working Properly.
 
