@@ -1,18 +1,22 @@
-Designator,Description,Value,Manufacturer Part Number,Type,Vicharak-PN,Footprint,Case/Package,Quantity
-"C10, C11, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38","100nF, 25V, X5R, ±10%, 0402, Multilayer Ceramic Capacitor - SMD/SMT",100nF,CL05A104KA5NNNC,Capacitor,V001480,CAP_0402,402,22
-"C2, C3, C9, C13, C14, C6, C7, C17, C18	","100nF, 25V, X7R, ±10%, 0603, Multilayer Ceramic Capacitors",100nF,CL10B104KA8NNNC,Capacitor,V001603,CAP_0603,603,9
-"C1, C8, C12, C5, C16	","1uF, 25V, X5R, ±10%, 0603, Multilayer Ceramic Capacitor - SMD/SMT",1uF,CL10A105KA8NNNC,Capacitor,V001450,CAP_0603,603,5
-"C4, C15","100pF, 50V, NP0, ±5%, 0402, Multilayer Ceramic Ca...tors MLCC - SMD/SMT",100pF,CC0402JRNPO9BN101,Capacitor,V000090,CAP_0402,402,2
-"R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R7","10KOhm, ±1%, 62.5mW, 0402, Chip Resisto",10K,0402WGF1002TCE,Resistor,V000011,RES_0402,402,11
-"R1, R6","100KOhm, ±1%, 1/16W, 0402, Resistor",100K,RC0402FR-07100KL,Resistor,V000404,RES_0402,402,2
-R2,"22.1KOhm, ±1%, 62.5mW, 0402, Chip Resisto",22.1K,0402WGF2212TCE,Resistor,V000235,RES_0402,402,1
-R3,"20KOhm, ±1%, 62.5mW, 0402, Resistor",20K,0402WGF2002TCE,Resistor,V000408,RES_0402,402,1
-R5,"4.99KOhm, ±1% 62.5mW, 0402, Chip Resistor",4.99K,0402WGF4991TCE,Resistor,V000258,RES_0402,402,1
-R7,"49.9KOhm, ±1%, 62.5mW, 0402, Resisto",49.9K,0402WGF4992TCE,Resistor,V001610,RES_0402,402,1
-"R18, R19","5.1KOhm, ±1%, 62.5mW, 0402, Resistor",5.1K,0402WGF5101TCE,Resistor,V000399,RES_0402,402,2
+ï»¿Designator,Description,Value,Manufacturer Part Number,Type,Vicharak-PN,Footprint,Case/Package,Quantity
+"C10, C11, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38","100nF, 25V, X5R, Â±10%, 0402, Multilayer Ceramic Capacitor - SMD/SMT",100nF,CL05A104KA5NNNC,Capacitor,V001480,CAP_0402,402,22
+"C2, C3, C9, C13, C14, C6, C7, C17, C18	","100nF, 25V, X7R, Â±10%, 0603, Multilayer Ceramic Capacitors",100nF,CL10B104KA8NNNC,Capacitor,V001603,CAP_0603,603,9
+"C1, C8, C12, C5, C16	","1uF, 25V, X5R, Â±10%, 0603, Multilayer Ceramic Capacitor - SMD/SMT",1uF,CL10A105KA8NNNC,Capacitor,V001450,CAP_0603,603,5
+"C4, C15","100pF, 50V, NP0, Â±5%, 0402, Multilayer Ceramic Ca...tors MLCC - SMD/SMT",100pF,CC0402JRNPO9BN101,Capacitor,V000090,CAP_0402,402,2
+"R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R7","10KOhm, Â±1%, 62.5mW, 0402, Chip Resisto",10K,0402WGF1002TCE,Resistor,V000011,RES_0402,402,11
+"R1, R6","100KOhm, Â±1%, 1/16W, 0402, Resistor",100K,RC0402FR-07100KL,Resistor,V000404,RES_0402,402,2
+R2,"22.1KOhm, Â±1%, 62.5mW, 0402, Chip Resisto",22.1K,0402WGF2212TCE,Resistor,V000235,RES_0402,402,1
+R3,"20KOhm, Â±1%, 62.5mW, 0402, Resistor",20K,0402WGF2002TCE,Resistor,V000408,RES_0402,402,1
+R5,"4.99KOhm, Â±1% 62.5mW, 0402, Chip Resistor",4.99K,0402WGF4991TCE,Resistor,V000258,RES_0402,402,1
+R7,"49.9KOhm, Â±1%, 62.5mW, 0402, Resisto",49.9K,0402WGF4992TCE,Resistor,V001610,RES_0402,402,1
+"R18, R19","5.1KOhm, Â±1%, 62.5mW, 0402, Resistor",5.1K,0402WGF5101TCE,Resistor,V000399,RES_0402,402,2
 "L1, L2","3.3uH, 40mOhm, 2.4A, 3.3A, 30%, Power Inductors",3.3uH,GCNR4030-3R3NC,Inductor,V001278,IND,IND,2
 "U4, U5, U6, U7, U8, U9, U10, U11, U12, U13",Voltage Level Translator Bidirectional 1 Circuit 8 Channel 100Mbps 20-USON (4x2),,TXB0108DQSR,IC,V001766,USON20,USON20,10
 "U1, U3","Buck, Input 2.5V~5.5V, 1A, SOT-23-5, DC-DC Converter",,SY8088IAAC,IC,V001502,SOT23-5,SOT23-5,2
 U2,"1.6-V to 5.5-V, 4-A Low IQ Power Mux With Manual and Priority Switchover",,TPS2117,IC,V001701,SOT8,SOT-8,1
 J1,Type-C 5A USB 3.1 1 260? Surface Mount 6P Female ...5? Gold Copper Alloy SMD USB Connector,,"U262-061N-4BVC11	",Connector,V000570,,,1
 "J3, J4",0.4mm 2 60 -35?~+85? Brick nogging male 300mA SMD...m Mezzanine Connector,,DF40C-60DP-0.4V(51),Connector,V000472,DF40C-60DP-0.4V(51),,2
+"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J16, J17, J18, J19, J20","Connector Header Through Hole 6 position 0.100"" (2.54mm)",,2541WV-06P,Connector,V002463,01x06 HEADER,,20
+"JM1, JM2, JM3, JM4, JM5",,PinHeader_1x03_P2.54mm_Vertical,2541WV-03P,Connector,V002464,01x03 HEADER,,5
+J24,Gold Through Hole Pin Header 2.54mm 4Pin 2x2Pin,,2541WV-2x02P,Connector,V002465,02X02 HEADER,,1
+PCB,GPIO HAT BLANK PCB V1.3,,,,V002371,,,1
